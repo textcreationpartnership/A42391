@@ -1,0 +1,612 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the visitation held at High Wickham in the county of Bucks. May 16. 1671 Wherein the ministers duty is remembred. Their dignity asserted. Man's reconciliation with God, urged. By Samuel Gardner M.A. and chaplain to His Majesty.</title>
+            <author>Gardner, Samuel, chaplain in Ordinary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42391</idno>
+            <idno type="STC">Wing G248A</idno>
+            <idno type="STC">ESTC R202272</idno>
+            <idno type="EEBO-CITATION">99825166</idno>
+            <idno type="PROQUEST">99825166</idno>
+            <idno type="VID">29541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1830:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the visitation held at High Wickham in the county of Bucks. May 16. 1671 Wherein the ministers duty is remembred. Their dignity asserted. Man's reconciliation with God, urged. By Samuel Gardner M.A. and chaplain to His Majesty.</title>
+                  <author>Gardner, Samuel, chaplain in Ordinary.</author>
+               </titleStmt>
+               <extent>[8], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Ratcliff, and N. Thompson, for Nath. Ranew at the Kings Arms in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Ministers dignity and duty.</note>
+                  <note>With an errata slip.</note>
+                  <note>Reproduction of the original at the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Visitation sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29541:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the Viſitation held at <hi>High Wickham</hi> in the County of <hi>Bucks. May</hi> 16. 1671. WHEREIN
+<list>
+                  <item>The Miniſters <hi>Duty</hi> is Remembred.</item>
+                  <item>Their <hi>Dignity</hi> Aſſerted.</item>
+                  <item>
+                     <hi>Man's Reconciliation with God,</hi> urged.</item>
+               </list>
+            </p>
+            <p>By <hi>Samuel Gardner</hi> M. A. and Chaplain to His Majeſty.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch the Word, be inſtant in Seaſon, out of Seaſon, Reprove, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rebuke, Exhort with all long-ſuffering and Doctrine.</p>
+               <bibl>2 Tim. 4.2.</bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed is that Servant, whom his Lord when he cometh, ſhall find <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>ſo doing.</p>
+               <bibl>Matth. 24.46.</bibl>
+            </q>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d who is ſufficient for theſe things?</p>
+               <bibl>2 Cor. 2.16.</bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ted by <hi>T. Ratcliff,</hi> and <hi>N. Thompſon,</hi> for <hi>Nath. Ranew</hi> at the <hi>Kings Arms</hi> in S. <hi>Pauls</hi> Church-yard. 1672.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29541:2"/>
+            <pb facs="tcp:29541:2"/>
+            <head>To The Right Reverend Father in God, WILLIAM, By Divine Providence Lord Biſhop of LINCOLNE, All Felicity and Coeleſtial Happineſs.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g> may moſt justly Wonder at this attempt why I (the meanest of ſo many) ſhould expoſe my ſelf unto Publick view, and the manifold Cenſures which will inevitably fol<g ref="char:EOLhyphen"/>low hereupon.</p>
+            <p>Secondly, In this my bold addreſs unto Your Lordſhip in the Dedication, with ſo poor and bar<g ref="char:EOLhyphen"/>ren
+<pb facs="tcp:29541:3"/> a Sermon, upon ſo rich and fruitful a Text, wherein ſo many glorious things ſhould be inſiſted on. But my fear is moſt the Cenſure of God; and that I may be afraid to Cenſure others.</p>
+            <p>I confeſs it's better to be haled in by force of others unto great Duties, then over hastily to ruſh upon them.</p>
+            <p>Your Lordſhip knows right well, That For<g ref="char:EOLhyphen"/>wardneſs argues Inſufficiency.</p>
+            <p>They are modest beginnings, which give hopeful Proceedings, and happy Endings. Yet when I con<g ref="char:EOLhyphen"/>ſidered that Servant was Condemned of Evil, that gave God no more then his own, which he had re<g ref="char:EOLhyphen"/>ceived, <hi>Matth.</hi> 25.27. Though but one Talent, yet ought to have improved it.</p>
+            <p>Then with neglect of Cenſure, contented to learn to be Contemned; I adventured to ſend forth this Plain Sermon into the World, ſeconded with many deſires that the Bleſſing of Heaven may go along with it, under Your Lordſhips Patronage.</p>
+            <p>I Deſign nothing of Controverſie; I inveigh not againſt any one; I would <hi>give no offence, neither to the Jevv nor to the Gentile,</hi> but eſpecially <hi>to the Church of God.</hi> 1 Cor. 10.32. Nor yet to gratifie ſuch as are accustomed to hu<g ref="char:EOLhyphen"/>mane flouriſhes, oftentimes contracting <hi>Itching Ears</hi> do begin to loath the ſimplicity of the Goſpel, and
+<pb facs="tcp:29541:3"/> 
+               <hi>vvill not indure ſound Doctrine.</hi> 2 Tim. 4.3.</p>
+            <p>The efficacy of the Holy Spirit doth more ap<g ref="char:EOLhyphen"/>pear in a naked ſimplicity of words, then in too much Elegancy and Neatneſs.</p>
+            <p>Hence Saint <hi>Paul</hi> ſaith that he was <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rude in Speech, yet not in Knovvledge.</hi> 2 Cor. 11.6.</p>
+            <p>Your Lordſhip is not ignorant that the two great Pillars, upon which the Kingdom of Satan is erected, and by which it is upheld, are Ignorance and Errour; The first of theſe is ſo far from being the Mother of all Devotion, that Saint <hi>Bernard</hi> ſaith, it is <hi>Mater omnium Vitiorum.</hi> Bern. de ordine vitae.</p>
+            <p>Through the Power of the Goſpel, and our care<g ref="char:EOLhyphen"/>ful Government, holy Diſcipline, we ſhall be much delivered from theſe Miſchiefs.</p>
+            <p>Your Lordſhip hath now a large Opportunity for Gods glory, and the Churches good, to further, and ho<g ref="char:EOLhyphen"/>nour, the truth of the Goſpel in the Power and Pu<g ref="char:EOLhyphen"/>rity of it while the Church of God ſhall be favou<g ref="char:EOLhyphen"/>red with Your life, and happy continuance amongst us.</p>
+            <p>The Lord ſtretch out his holy Arm together with you in that great Charge committed to you, and make your Lordſhip as great a bleſſing, as faithful a favou<g ref="char:EOLhyphen"/>rite unto Piety, as great a ſupporter and encourager of the faithful Miniſters of the Goſpel, and the moſt ſincere, and Godly of your Lordſhips Dioceſs, as
+<pb facs="tcp:29541:4"/> ever did Preceed you, or ever ſhall Succeed you. And then give you a full and an ample reward; that your laſt tranſlation may be to a never fading Crown, and ſuch choice delights as never entred into the heart of man to conceive.</p>
+            <p>The Lord of Heaven and Earth bleſs your Lordſhip with many and happy days, and grant you true Felicity. Thus craving your Lordſhips pardon for my preſumption, I ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your Lordſhips, Humble Servant in all duty and faithful Service, Samuel Gardner.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:29541:4"/>
+            <opener>
+               <salute>Reverend and dear Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately had a happineſs to hear a Sermon read by a Reverend Friend, which not long ſince you Preached at a Viſitation, concerning the Dignity and Duty of Goſpel Miniſters. I could do no leſs, then ſignifie to you how much <hi>I</hi> was affected therewith; and how much I deſire You would make it Publick, being perſwaded that through the Bleſſing of God much good would accrew both to Miniſters and private Chri<g ref="char:EOLhyphen"/>ſtians, into whoſe hands it may come, who cannot but be both delighted and edified by reading it; and learn thereby, the one to be more painful in Preaching, and the
+<pb facs="tcp:29541:5"/> other more careful in Hearing, and both more Conſciencious in living regularly.</p>
+            <p>Howſoever your Work and Labour of love, in ſo Learned and Powerful diſpenſa<g ref="char:EOLhyphen"/>tion, ſhall be rewarded. Nor do I fear, as he who read your Sermon ſeemed to do, That any of the diſſenting Brethren that are truely pious and peacable, will take the leaſt offence at any paſſage therin. Which is all at preſent from your unwor<g ref="char:EOLhyphen"/>thy Brother, Friend and Servant,</p>
+            <closer>
+               <signed>John Bryan.</signed> 
+               <dateline>
+                  <hi>Toddington.</hi> 
+                  <date>Sept. 6. 1671.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:29541:5"/>
+            <head>Miniſters Dignity and Duty. A Sermon Preached at the Viſitation held at High <hi>Wickham</hi> in the County of <hi>Bucks. May</hi> 16. 1671.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 Cor. 5.20.</bibl>
+                  <p>Now then We are Ambaſſadors for Christ, as though God did beſeech you by us; We Pray you in Chriſts ſtead, be ye Reconciled to God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE great Ambaſſadours of Kings and Princes in this inferiour World Command Reſpect and Reverence from all beholders.</p>
+            <p>And what innumerable multitudes are there, whoſe higheſt Ambition it is, to feed their Eyes in view<g ref="char:EOLhyphen"/>ing and beholding their goodly and comely Order, both in their acceſs for Audience, and alſo in their re<g ref="char:EOLhyphen"/>tedure?</p>
+            <p>Here the Solemnity is more honoured, a greater Preſence pro<g ref="char:EOLhyphen"/>miſed unto the end of the World. <hi>Matth.</hi> 28.20. The very At<g ref="char:EOLhyphen"/>tendance more glorious in nature then our ſelves. <hi>Heb.</hi> 1.14.</p>
+            <p>The Place more beautiful and amiable, the things more rich and excellent, ſublime and ſpiritual.</p>
+            <p>An ineſtimable treaſure is now preſented which excelleth all the Riches of the Earth, the unſearchable Riches of Chriſt. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Riches that hath no footſteps, which cannot be traced out; that is the propriety of the Word.</p>
+            <pb n="2" facs="tcp:29541:6"/>
+            <p>Though we are men of like Paſſion with your ſelves, that Preach unto you, that ye ſhould turn from Vanities unto the living God, which made Heaven and Earth, <hi>&amp;c. Acts</hi> 14.15. for that you are no more able of your ſelves to hear God ſpeaking to you immediately in his own Wiſdom, then <hi>Iſrael,</hi> in whoſe eyes the glory of God was like devouring Fire, and they as ſtubble before him. <hi>Exod.</hi> 20.19.</p>
+            <p>Therefore let it content you, that you have this Heavenly Trea<g ref="char:EOLhyphen"/>ſure, though in Earthen Veſſels; that the Excellency of the Power may be of God, and not of us. 2 <hi>Cor</hi> 4.7.</p>
+            <p>And ſeeing it is the pleaſure of the Almighty God to have it ſo for his own Glory, and your eternal Happineſs, is it fit and ratio<g ref="char:EOLhyphen"/>nal for Duſt and Aſhes to Diſpute, and to be angry with the Judge of all the Earth? <hi>Gen.</hi> 18.25.</p>
+            <p>And for poor Wormes to rebel againſt their Maker, at whoſe Pre<g ref="char:EOLhyphen"/>ſence both Heaven and Earth doth tremble.</p>
+            <p>Here's Gods great Condeſcention: becauſe of the weakneſs of our apprehenſion. And if there be humility of greateſt Poverty, yet here is an atteſtation of preateſt glory. That no man might be of<g ref="char:EOLhyphen"/>fended, but rather ſtand aſtoniſhed with an holy admiration at the infinite grace, wiſdom, mercy, and goodneſs of God.</p>
+            <p>Firſt, That his own Son, God bleſſed for ever, ſhould aſſume hu<g ref="char:EOLhyphen"/>mane nature to ſave us, to unite a Clod of Earth unto his Divine Perſon! That Chriſt ſhould give this World ſo glorious, ſo mag<g ref="char:EOLhyphen"/>nificently great, and ſo happy a Viſitation! Greater Condeſcention then if ſome great Prince ſhould go into an Hoſpital to look on a lothſome diſeaſed Creature.</p>
+            <p>Here's ſuperabundant love of God in Jeſus Chriſt, which tran<g ref="char:EOLhyphen"/>ſcends all the degrees of Compariſon!</p>
+            <p>And then, that God ſhould entreat, wooe, and beſeech us by the Miniſtry of his Ambaſſadors, that we would ſave our ſelves from ever<g ref="char:EOLhyphen"/>laſting ruine. That God ſhould look upon all the Children of men in their fallen loſt ſinful and miſerable Condition, with ſuch pity and compaſſion; who have made themſelves liable to eternal Wrath, which they underſtand not, which they are not able to bear; That God out of his infinite grace and wiſdom ſhould find out, and pro<g ref="char:EOLhyphen"/>vide a way and means of Salvation: For the Children of men his profeſſed Enemies.</p>
+            <p>In the words we have theſe particulars to be conſidered.</p>
+            <p>Firſt, The Apoſtles illation, drawn from the Premiſſes, by which
+<pb n="3" facs="tcp:29541:6"/> the Text hath his Coherence, with the precedent verſes. And preſents us with this inſtruction, That we are not bound to accept matters of Re<g ref="char:EOLhyphen"/>ligion, meely without all reaſon, and probable inducements.</p>
+            <p>Secondly, the aſſertion of the Subjects by plain Enunciation, <hi>We are Ambaſſadours.</hi>
+            </p>
+            <p>Thirdly, the honourable Dignity of theſe Ambaſſadours, they are for Chriſt; <hi>Ambaſſadours of Chriſt.</hi>
+            </p>
+            <p>Fourthly, the Authority of God the Father confirming this excel<g ref="char:EOLhyphen"/>lent Dignity, <hi>as though God did beſeech you by us,</hi> and as if Chriſt himſelf ſtood by and prayed men, <hi>We pray you in Chriſts ſtead.</hi>
+            </p>
+            <p>Fiftly, here is <hi>res conſiderata, &amp; modus conſiderandi;</hi> The Goſpel Embaſſie it ſelf.</p>
+            <p>Secondly, the way and manner of Goſpel Miniſters delivering of Gods Meſſage and Errand unto the People; and that not in a way of ſeverity and rigour, but beſeeching and intreating to be <hi>reconci<g ref="char:EOLhyphen"/>led to God</hi>
+            </p>
+            <p>Now the Doctrinal truths which are to be Collected and deduced hence are theſe.</p>
+            <p>Firſt that the Foundation of our eternal Salvation is laid by God in Chriſt. <hi>God was in Chriſt reconciling the World unto himſelf.</hi>
+            </p>
+            <p>Secondly, Gods Miniſters have their Commiſſion from Heaven, they come in the Name of the great King of Heaven and Earth, and are his <hi>Commiſſion-Officers.</hi>
+            </p>
+            <p>Thirdly, that God who might come in flaming Fire to conſume us in a moment, cometh to us in the greateſt Mercy, Tenderneſs, and Condeſcention, Praying and Beſeeching us to be reconciled unto him.</p>
+            <p>Fourthly, that God and Man are at a great diſtance.</p>
+            <p>Fiftly, Reconciliation unto God was the moſt glorious work that ever was wrought, and the moſt bleſſed word that ever was heard; But I muſt not think to graſp all theſe. But the truth that I intend to inſiſt upon, is this: That it is the great Honour and Dignity of the Miniſters of the Goſpel to be the Ambaſſadours of Jeſus Chriſt. But I will firſt ſpeak ſomething of their Duty: and then Secondly, of their Dignity. Thirdly, of mans reconciliation to God, in the Application.</p>
+            <p>The words of my Text, as you have heard, are an illative Con<g ref="char:EOLhyphen"/>cluſion drawn from the Premiſes, <hi>verſ.</hi> 19 there is ſet forth the Recon<g ref="char:EOLhyphen"/>ciliatiation on Gods part: He though <hi>Pars laeſa;</hi> the Party greatly and grievouſly injured and offended (the greatneſs of an offence grow<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:29541:7"/> from the dignity and excellency of the perſon offended; and this makes it <hi>Crimen laeſa majeſtatis,</hi> ſo hainous and Capital, high Trea<g ref="char:EOLhyphen"/>ſon indeed againſt the Crown and Dignity of Heaven) yet contrives and deſigns this great work of Reconciliation.</p>
+            <p>God was in Chriſt reconciling the World unto himſelf; namely, by his Merit and Interceſſion; for as the greatneſs of the injury grows from the dignity of the perſon offended, becauſe there the worth of the offended perſon is hurt, ſo the worth of him that makes ſatisfa<g ref="char:EOLhyphen"/>ction doth grow from him that makes ſatisfaction; becauſe here the yielding of honour is looked into, which depends upon the Dignity of him that yields the honour.</p>
+            <p>And hath committed unto us the word of attonement or reconcili<g ref="char:EOLhyphen"/>ation. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhewing that a Mini<g ref="char:EOLhyphen"/>ſter of the Goſpel ſhould have the Doctrine of Reconciliation firſt fixed and placed in his own heart, and ſo ſpeak from his own heart to the hearts of others, and comfort others with thoſe comforts wherewith he himſelf hath been comforted of God.</p>
+            <p>When a man is no ſtranger unto thoſe things he delivereth unto others; how many are there who onely have a humane knowledge of divine things?</p>
+            <p>There is nothing more eaſie (ſaith Biſhop <hi>Hall, Cent.</hi> 2. <hi>Med.</hi> 91.) then to ſay Divinity by rote, and to diſcourſe of Spiritual matters from the Tongue or Pen of others; but to hear God ſpeak it to the Soul, and to Feel the Power of Religion in our ſelves, and to expreſs it out of the truth of experience within, is both rare and hard. All that we feel not in the matters of God is but hypocriſie, and there<g ref="char:EOLhyphen"/>fore the more we profeſs, the more we ſin. <hi>Luther</hi> felt what he ſpake, and had experience of what he wrote; and being to, ſpeak of our Juſtification by Faith in Chriſt, ſaith he, In my heart this one Article reigneth, even the Faith of Chriſt, from whom and unto whom all my divine ſtudies have recourſe to, and through continually.</p>
+            <p>Saith S. <hi>Paul</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and who is ſufficient for theſe things? Who is ſufficient for the miniſtry of Life? Who hath fit and particular qualifications for ſuch places? for matters of ſuch weighty and great importance, for ſo great a charge as is committed to them? If a man were to paint the Sun, or to limn out the na<g ref="char:EOLhyphen"/>ture of a Soul, who could inſtruct him what Colours he muſt uſe? It is not enough that men have publick vote for publick places, but they muſt have ſuitable Endowments. He that thinks to act for God, muſt have qualifications from God.</p>
+            <pb n="5" facs="tcp:29541:7"/>
+            <p>There muſt proceed a miſſion and Commiſſion; or elſe whoſoever runs abroad, had better have ſtaid at home. 1 <hi>Tim.</hi> 3. The Apo<g ref="char:EOLhyphen"/>ſtle lays down their particular qualifications, who ſhall be fit for ſuch places, and he would have us look to whom he hath qualified. That our moſt Reverend Biſhops, moſt inſtructed in the Government of the Church, and moſt highly dignified in it, ſhould take great heed whom they bleſs: Such as may know how to behave them<g ref="char:EOLhyphen"/>ſelves in the Church. This calling by man is not to be deſpiſed. For it is not enough, as <hi>Luther</hi> obſerves, for a man to have the Word and pure Doctrine, but he muſt alſo be aſſured of his Calling, and he that entreth without this certainty, entreth to no other end, but to kill and deſtroy. For God never proſpereth the labour of them that are not called. And although they may teach ſome good and profitable matter, yet they edifie not. A Miniſter muſt be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 1 <hi>Tim.</hi> 3.3. given to Hoſpitality, a lover or uſer of Hoſpi<g ref="char:EOLhyphen"/>tality, according to the Apoſtles exhortaion, as we have therefore op<g ref="char:EOLhyphen"/>portunity <hi>let us do good unto all men, especially unto them who are of the Houſhold of Faith.</hi> And alſo after the Example of our heavenly Father, <hi>who maketh his ſun to ſhine on the evil and on the good,</hi> Matth. 5.45. And for that the common ſort approve of friendſhip by profit. <hi>Non ex benedictis, ſed ex benefactis.</hi>
+            </p>
+            <p>But eſpecially a Miniſter muſt be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> apt to teach, ready to teach, ever ready preſt to do any thing which the Lord hath given him in charge; to feed the Peoples Souls with divine meat, to ap<g ref="char:EOLhyphen"/>prove himſelf a Paſtor after Gods own heart, ever labouring to imi<g ref="char:EOLhyphen"/>tate our Bleſſed Lord and Saviour, <hi>Matt.</hi> 5.2. who ſo <hi>opened his mouth</hi> that he <hi>taught the People</hi> the way of life and Salvation, and that with moſt admirable Wiſdom, excellent Grace, ſingular Meekneſs, ardent Zeal, and Authority unuſual, not reſpecting any mans perſon, ſo that <hi>never man spake like this man.</hi> Joh. 7.46.</p>
+            <p>And as God ſaid to <hi>Moſes Exod.</hi> 23.13. <hi>In all things that I have ſaid unto you be circumſpect,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Ye ſhall be wary, or take heed to your ſelves, that ye tranſgreſs not. So our Saviour gave the charge unto his Diſciples to be as <hi>wiſe as Serpents, and harmleſs and inno<g ref="char:EOLhyphen"/>cent as Doves.</hi> Matt. 10.16.</p>
+            <p>Chriſt would have them Wiſe and Innocent. The Serpent hath too much ſubtilty, but wants ſimplicity, and innocency; therefore the ſimplicity of the Dove, and the wiſdom of the Serpent make a good mixture; yet of the two, it ſeemeth more ſafe to want wiſ<g ref="char:EOLhyphen"/>dom then innocency; better to erre for want of wit, then to de<g ref="char:EOLhyphen"/>ceive with too much.</p>
+            <pb n="6" facs="tcp:29541:8"/>
+            <q>
+               <p>Nocentiſſimi autem qui non ſimplices, ſicut stultiſſimi qui non ſa<g ref="char:EOLhyphen"/>pientes, praſtat minus ſapere quam peius, errare quam fallere.</p>
+               <bibl>Tertull. adverſus Valent. <hi>Cap.</hi> 2.</bibl>
+            </q>
+            <p>This muſt be our rejoycing according to that golden ſaying of the Apoſtle, <hi>That in ſimplicity and godly ſincerity, not with fleſhly wiſdom, but by the grace of God, we have had our converſation in the world.</hi> 2 Cor. 1.12.</p>
+            <p>Again, a Miniſter muſt be a Labourer not a loyterer in Gods harveſt <hi>Whereunto I alſo labour, striving,</hi> ſaith the Apoſtle, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Sweating and taking great pains, bearing the bur<g ref="char:EOLhyphen"/>den and heat of the day. <hi>Col</hi> 1.29. Which may be moſt truly ve<g ref="char:EOLhyphen"/>rified of him, who laboured more abundantly then all; as his works in the New Teſtament do ſufficiently witneſs. Chriſt never bad us pray for loyterers and lookers on; ſuch as will rather let their bodies ruſt away, then ſpend and wear them away in the ſervice of God.</p>
+            <p>The Miniſtry is a matter of Service; as an Honour, ſo a Burden. None are called into Gods Harveſt but Labourers: And therefore what Work we have to do for God, we are to put forth our ſtrength about it; our great Errand and buſineſs in this world being to ſave Souls, we are to apply our ſelves unto it with all our might; which is the Argument of the Holy Ghoſt, <hi>Whatſoever thy hand findeth to do, do it with thy might, for there is no work, nor device, nor knowledge, nor wiſdom in the Grave whither thou goeſt.</hi> Eccleſ. 9.10.</p>
+            <p>
+               <hi>Jeremiah</hi> ſaith, <hi>Curſed be he that doth the work of the Lord neg<g ref="char:EOLhyphen"/>ligently,</hi> or deceitfully. <hi>Jer.</hi> 48.10. <hi>Maledictus qui facit fraudu<g ref="char:EOLhyphen"/>lenter.</hi> Arias Mont.</p>
+            <p>If this curſe do not touch them, which do the chiefeſt buſineſs of the Lord negligently, truly I know not whom the Prophet meaneth.</p>
+            <p>Saith <hi>Paul</hi> to <hi>Timothy, Give attendance to Reading, to Exhortati<g ref="char:EOLhyphen"/>on, to Doctrine, meditate upon theſe things, give thy ſelf wholly to them;</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be in them; 1 <hi>Tim.</hi> 4.13. and after the example of Chriſt <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; ſaith he, <hi>I muſt be about my Fa<g ref="char:EOLhyphen"/>thers buſineſs. Luke</hi> 2.49. The Apoſtles profeſſed unto the multi<g ref="char:EOLhyphen"/>tude of People that came about them, that they would give them<g ref="char:EOLhyphen"/>ſelves <hi>continually to Prayer, and to the Miniſtry of the Word.</hi>
+               <pb n="7" facs="tcp:29541:8"/> Acts 6.4. Many thrive not in their Studies, as not calling upon God for his aſſiſtance therein, and bleſſing thereupon, by frequent, ſer<g ref="char:EOLhyphen"/>vent and conſtant prayer; which is an excellent way to make a mans miniſtry ſhine. And alſo joyning Faſting thereunto, as often as is convenient. Chriſt excuſed his Diſciples in not faſting while he was with them: But took it for granted that they would faſt, ſo ſoon as he was gone from them to Heaven. <hi>Matt.</hi> 9.15.</p>
+            <p>This is that which ſeeds the Soul with the dainties of the Scripture, doth refreſh and comfort with Contemplation eſtabliſheth with grace, and nouriſh with heavenly food. This is alſo the way to true Honour, and to do ſomething in the World for the glory of God.</p>
+            <q>
+               <p>Jejunium ſcripturarum deliciis Paſcitur, contemplatione reficitur, gratia ſtabilitur, coeleſti pane nutritur. Quotquot vires vir<g ref="char:EOLhyphen"/>tutum vidimus, ſine jejunio non legemus aſcendiſſe: nec ali<g ref="char:EOLhyphen"/>quod magnum moliti ſunt, niſi prius abſtinentia praeceſſiſſet.</p>
+               <bibl>
+                  <hi>Cypr.</hi> de je junio &amp; tentationibus Chriſti.</bibl>
+            </q>
+            <p>That our profiting may appear to all, many delivered out of ig<g ref="char:EOLhyphen"/>norance, many purged from their filthineſs, when we declare unto our People all the Counſel of God. Propound the will of God out of the Word unto the Edification of our People, when <hi>the end of Preaching is love, out of a pure heart,</hi> and a good Conſcience, and faith unfeigned, labour to ſave our ſelves and them that hear us. 1 <hi>Tim</hi> 1.5.</p>
+            <p>This is the onely way to be great Bleſſings unto them amongſt whom we live; when thouſands are enriched by you. Many bleſs God that ever you came amongſt them; and to have many Prayers of the Saints aſcending to Heaven for a Bleſſing upon you in your Miniſtry; this is no ſmall mercy. To be inſtrumental for much good unto the Church of God, this is one of the greateſt happineſſes in this world, To have large Opportunities for God and his Church. And when a Miniſter is a Voice, he is heard; Ignorance doth not ſi<g ref="char:EOLhyphen"/>lence him, nor lazineſs, nor abundance of preferment, nor indiſcreet and diſtempered zeal; he is a Voice in his Habit, in his Geſture, and in his Life and Converſation, as well as in his Doctrine.</p>
+            <p>Now the Peoples eyes will be taught as well as their ears; who otherwiſe, will be moſt unmerciful and ſeverely Critical. <hi>Noah</hi> was a Preacher of Righteouſneſs; becauſe his Life was an actual Ser<g ref="char:EOLhyphen"/>mon. An innocent and unrebukable life is a ſilent teſtimony of a
+<pb n="8" facs="tcp:29541:9"/> good Miniſter. But eſpecially when we manifeſt our love to Chriſt by <hi>feeding his ſheep.</hi> Joh. 21.15. By doing all that belongeth to the office of a good Shepherd to his ſheep; either young and tender, or ſtrong and well grown. This is alſo a ſure argument of the Mini<g ref="char:EOLhyphen"/>ſters love to Chriſt, when he doth Conſcionably labour to Edifie thoſe, whom Chriſt loveth, and for whom he dyed. When we la<g ref="char:EOLhyphen"/>bour to approve our ſelves abundantly to the Church of God, and to the Conſciences of men: But not unto their humours.</p>
+            <p>To anſwer the end of our Education, the Coſt and expence of God, Parents, and School-maſters, the expectation of Friends, and any who have ſhewed us kindneſs.</p>
+            <p>And now what infinite pity is it, that any one way of ſin ſhould ever ſtand up to hinder us from ſerving of God, in the Goſpel of his Son? or rob us of our Excellency, and Beauty, and Strength, and Glory. So much ſin and luſts, ſo much loſs of excellency. <hi>Gen.</hi> 49.4.</p>
+            <p>When there is either lewdneſs or negligence of them that are able to do well in their Miniſtry, and yet do contrary, although your words be never ſo loud, yet if your works be lewd, though you were ſons of Thunder, yet a crack in the Inſtrument will ſpoil the ſound. Sin even in Ignorance is a talent of Lead; but ſin in Know<g ref="char:EOLhyphen"/>ledge is a Milſtone to ſink a man to the loweſt. <hi>Bona noſcere, &amp; mala facere,</hi> to know good, and do ill, makes a mans own <hi>mitti<g ref="char:EOLhyphen"/>mus</hi> to Hell.</p>
+            <p>The pleaſures of ſin are dear bought in any, but eſpecially in a Miniſter. <hi>Heb.</hi> 6.6. This doth a world of miſchief and hurt both in heaven and earth. The Miniſter that ſpends himſelf like a Ta<g ref="char:EOLhyphen"/>per to give light unto others, muſt not himſelf go out with an ill ſavour. When ſuch a one as <hi>David</hi> ſinned, he gave great occaſion to the enemies of God to blaſpheme; others may ſwear and ſwag<g ref="char:EOLhyphen"/>ger, and they matter not, nor wonder not. 2 <hi>Sam.</hi> 12.4.</p>
+            <p>This was the reaſon why the <hi>Indians</hi> refuſed the Goſpel brought by the <hi>Spaniards:</hi> becauſe their lives were more ſavage then thoſe Savages. It is ſaid of <hi>Hophni</hi> and <hi>Phinehas,</hi> that although they were the Lords Prieſts, yet they were ſons of <hi>Belial;</hi> they knew not the Lord, and by their ſinful and corrupt Sacrificing, they made the People abhor the Sacrifice. 1 <hi>Sam.</hi> 2.12. So many by their raw indigeſted ſlubbering of the Word, for want of ſtudy and meditati<g ref="char:EOLhyphen"/>on, do make men think that there is no more Wiſdom, Purity Per<g ref="char:EOLhyphen"/>fection, Majeſty and Glory, then they ſhew out of it; And therefore
+<pb n="9" facs="tcp:29541:9"/> they ſtay at home, and ſay. They know as much as the Miniſter could tell them. When in a whole Sermon the hearer could not pick out one Note more, then he could gather himſelf.</p>
+            <p>Good Matter ſlubbered up in rude and careleſs words is made loth<g ref="char:EOLhyphen"/>ſome to the hearer; as a body mis-ſhapen with unhandſome Clothes. [B. <hi>Hall.</hi>] A good Miniſter as he maketh Conſcience of Preparing his heart to ſerve the Lord, ſo he will not ſerve God with that which coſt him nothing; He converſes much with God that he may be ho<g ref="char:EOLhyphen"/>ly; as the Object of his Preaching is Chriſt and the Goſpel, and the Kingdom of Heaven, ſo he labours to be heavenly alſo. O how gra<g ref="char:EOLhyphen"/>ciouſly ſhould we deliver Gods Errand to the People, and they hear it with fear and trembling!</p>
+            <p>Holy Duties call for holy Preparation: <hi>David waſhed his hands in innocency</hi> before he <hi>compaſſed Gods Altar.</hi> Pſal. 26.6. And <hi>Job</hi> in<g ref="char:EOLhyphen"/>tending to ſacrifice to God in the behalf of himſelf and his Children, ſends to them ſolemnly to Prepare themſelves. And if this be not done, if they ſin not againſt more light, yet certainly againſt grea<g ref="char:EOLhyphen"/>ter obligations.</p>
+            <p>Nay, the very Heathens themſelves would not admit any to come to their Religious Services, unleſs they were prepared; as that of <hi>Aeneas</hi> to his Father <hi>Anchiſes,</hi> upon his return from the Wars.
+<q>
+                  <l>Tu genitor cape ſacra manu, Patrioſque penates.</l>
+                  <l>Me bello è tanto digreſſum &amp; caede recenti.</l>
+                  <bibl>
+                     <hi>Virg.</hi> lib. 2. Aenead. p. 176.</bibl>
+               </q> Therefore they had one that cried out to the people, <hi>Procul hinc este prophani; All you that are unclean and prophane depart hence, and come not near us.</hi> And ſhall Chriſtians who have learnt better things, touch holy things with unholy hands, or unholy hearts? no, they muſt not, they ought not; Holy Duties call for holy Preparation, and in a moſt ſpecial manner of a Miniſter, that cometh ſo near unto the Lord. Men muſt be ſanctified within and without, before they come to the performances of any holy duty: It is true that the Duty ſanctifies, but men muſt be ſanctified for the duty.</p>
+            <p>Again a Miniſter muſt be active and vigorous in the reproof of ſin, <hi>Preach the Word be inſtant in ſeaſon, out of ſeaſon, reprove, rebuke, ex<g ref="char:EOLhyphen"/>hort with all long ſuffering and doctrine.</hi> 2 Tim. 4.2. Young <hi>Timothy</hi> muſt Reprove and Rebuke; Preaching the ſame Truths with aged <hi>Paul.</hi> It is Gods Charge unto <hi>Iſaiah,</hi> to <hi>Cry aloud,</hi> to <hi>ſpare not,</hi> to <hi>lift up his
+<pb n="10" facs="tcp:29541:10"/> 
+                  <g ref="char:V">Ʋ</g>oice like a Trumpet, ſhewing the People their Tranſgreſſions and ſins.</hi> Iſa. 58.1.</p>
+            <p>A Miniſter muſt ſometimes change his note, differ from himſelf, ſharpening his ſpeech, dipping his words in gall as our Saviour himſelf did. <hi>Ye Serpents, ye generation of Vipers, how can ye eſcape the damnati<g ref="char:EOLhyphen"/>on of Hell?</hi> Whom yet we may find in another place, <hi>Matt.</hi> 5. as it were Piping and Dancing, and all melodious ſweetneſs. When <hi>Ely<g ref="char:EOLhyphen"/>mas</hi> the Sorcerer, would have obſtructed Saint <hi>Paul</hi>'s Preaching, and have turned the Deputy from the Faith. <hi>Paul</hi> ſet his eyes on him, and cryes out, <hi>O full of all ſubtilty, and all miſchief; thou child of the Devil, thou enemy of all righteouſneſs.</hi>
+            </p>
+            <p>It's true the Goſpel hath not one hard and unkind word againſt a Child of God; but always Grace and Peace from God the Father and our Lord Jeſus Chriſt. This is the Voice of the Miniſters of the Goſpel, <hi>Peace be to you,</hi> and <hi>Fear not: for behold I bring you good tidings of great joy.</hi> Luke 2.10.</p>
+            <p>Saith the holy Apoſtle, <hi>Ye have not received the ſpirit of bondage again to fear; But ye have received the Spirit of adoption, whereby we cry Abba Father.</hi> Rom. 8.15. It is never a Spirit of Bondage again in that ſenſe and meaning, as it was before.</p>
+            <p>But now on the contrary, there is nothing but woe unto ſinful and prophane ungodly wretches; There is a time to reprove ſinners and workers of iniquity, moſt ſharply, as well as to comfort Saints.</p>
+            <p>God is content ſometimes that we ſhould derive from his Throne <hi>Thunderings, and Lightnings, and</hi> louder <hi>ſounds.</hi> Rev. 4.5. When <hi>Iſrael</hi> in <hi>Moſes</hi> his abſence corrupted themſelves in making a molten Calf, <hi>Moſes</hi> did not dance after their pipe, and laugh at their Idola<g ref="char:EOLhyphen"/>trous Image, and ſuperſtitious merriment: but with great zeal repro<g ref="char:EOLhyphen"/>ved their folly, and with indignation confounded their Idol.</p>
+            <p>So if the whole Nation be grown Sermon-proof, ſitteth ſtill and is at reſt, ſettled on the lees, prophane, Athieſtical; ſhould we not be falſe Prophets to cry nothing but Peace? Certainly we muſt now Cry with <hi>Iſaia. Wo</hi> to a ſinful Nation. When mens lives proclaim Wars againſt God, muſt we not denounce Gods Judgments againſt them? We would be glad at every Sermon to ſay nothing but Peace to this Audience; but our God ſaith, <hi>There is no Peace to the wicked.</hi> We would ſing with the Angels, <hi>Peace on Earth, and good will towards men:</hi> but <hi>how ſhall we ſing the Lords Song in a ſtrange Land?</hi> Pſ. 137.4. We have Preached Glory, Honour, and Peace, and Salvation, and an in<g ref="char:EOLhyphen"/>corruptible Crown, and the choyceſt delights that heart could wiſh;
+<pb n="11" facs="tcp:29541:10"/> and were not regarded: What remains then? but to Preach <hi>Indig<g ref="char:EOLhyphen"/>nation, and Wrath, tribulation, and angniſh upon every Soul of man that doth evil.</hi> Rom. 2.8,9. Fire from Heaven, Plague, Sword, and Fa<g ref="char:EOLhyphen"/>mine, Captivity, Emptied from veſſel to veſſel, hurried from place to place.</p>
+            <p>Miſts, and Clouds, and Darkneſs, and Torments for days and nights, and eternal generations of Years.</p>
+            <p>
+               <hi>We have Piped unto you, and ye have not Danced.</hi> Matt. 11.7. we have ſung, <hi>With thee, O Lord, is mercy, that thou mayeſt be feared.</hi> Pſal. 130.4. But now we muſt change our note, <hi>With thee is</hi> Vengeance <hi>that thou mayeſt be feared.</hi>
+            </p>
+            <p>If the Spirit of Gentleneſs can do no good, a Rod muſt come; if the Songs of <hi>Sion</hi> cannot Mollifie, the Thunders of mount <hi>Sinai</hi> muſt Terrifie.</p>
+            <p>
+               <hi>Eli</hi> though a good man, yet his Reproof wanted life, and indig<g ref="char:EOLhyphen"/>nation againſt ſin; <hi>Nay my Sons, for it is no good report that I hear.</hi> 1 Sam. 2.24.</p>
+            <p>In the matter of Preaching, O what weighty things doth the Word contain? Truths that ſhould make the very bowels of the Miniſter to yern, and pour out his affections in the Pulpit, to rouze up the Peoples thoughts, and awaken them, from the ſleep of ſin, and ſecurity, wherein they have lain ſo long a time; Otherwiſe, when they hear of matters of Life and Death; Salvation and Dam<g ref="char:EOLhyphen"/>nation, they ſit like blocks in their Seats as though it were no great matter. Thus the golden Bells of <hi>Aaron</hi> muſt be rung in ſeveral tunes. A Miniſter muſt labour to be like <hi>John Baptiſt,</hi> to be a burn<g ref="char:EOLhyphen"/>ing and a ſhining Light, more then a <hi>Voice;</hi> there muſt be life and heat in his Miniſtry. <hi>Job.</hi> 5.35.</p>
+            <p>A Miniſter had need of many rare and excellent gifts, to open the Scriptures, to deduce from them, to convince of ſin, to lay a good foundation, to move the affections (which the holy Scripture is ſo full of) And moſt certain it is that they which are of the moſt pro<g ref="char:EOLhyphen"/>digious, wonderful and incomparable parts, are moſt ſenſible of their own inabilities. When God told <hi>Moſes</hi> he would ſend him to deli<g ref="char:EOLhyphen"/>ver <hi>Iſrael,</hi> ſaith <hi>Moſes</hi> to God, <hi>Who am I that I ſhould go unto Pharaoh?</hi> Exod. 3.10. When none in all <hi>Iſrael</hi> or <hi>Midian</hi> was comparably fit for this Embaſſage.</p>
+            <p>Which of the <hi>Iſraelites</hi> had been brought up a Courtier, 1 Schollar, an <hi>Iſraelite</hi> by Blood, by Education an <hi>Egyptian, Learn<g ref="char:EOLhyphen"/>ed in all the Wiſdom of the Egyptians, and was mighty in words and is deeds.</hi> Acts 7.22. So that he was Learned, Wiſe, Valiant, Experi<g ref="char:EOLhyphen"/>enced;
+<pb n="12" facs="tcp:29541:11"/> Yet he ſaith, <hi>Who am I?</hi> 'Tis to be feared there is few a<g ref="char:EOLhyphen"/>mongſt us look <hi>Moſes</hi> his way; firſt upon himſelf, his own inſuffici<g ref="char:EOLhyphen"/>encies.</p>
+            <p>How few amongſt us, that are named to any place, begins at <hi>Moſes, What am I?</hi> where have I Studied, and Practiced ſufficiently before, that I ſhould fill ſuch or ſuch a place of Judicature? where have I ſerved, and laboured, and Preached in inferiour places of the Church, that I ſhould fill ſuch or ſuch a place of Dignity or Prelacy there? How few like <hi>Abram</hi> left to ſay in all humility, <hi>I am but Duſt and Aſhes;</hi> or <hi>Jacob, Non ſum dignus.</hi> I am not worthy of the leaſt of theſe Preferments: But every man is vapour'd up into Air, and (as the Air can) he thinks he can fill any place. Many run into the Magi<g ref="char:EOLhyphen"/>ſtracy; many into the Miniſtry; but who is ſufficient for any one? <hi>Who is ſufficient for theſe things?</hi> ſaith that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Maſter of Speech. 2 <hi>Cor.</hi> 2.16. This is ſpoken in the high Commendation of <hi>Apollos,</hi> that <hi>he was an Eloquent man, and</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>powerful, and mighty in the Scriptures.</hi> Acts 18.24. fervent in the Spirit, teaching diligently the things of the Lord. Therefore a Mini<g ref="char:EOLhyphen"/>ſter muſt have his ſenſes exerciſed in the holy Scripture, even beyond the common ſort of believers; ſo that he may be ſaid with <hi>Apollos,</hi> Mighty in the Scriptures:</p>
+            <p>And though he may and ought to make uſe of Councils, School<g ref="char:EOLhyphen"/>men, and Fathers with reverence; yet Apoſtolical Writings are one<g ref="char:EOLhyphen"/>ly to be appealed to, as the laſt Rule of Faith.</p>
+            <p>Thus having ſpoken ſomething of the Miniſters Duty, though in this Grave, Worthy and Learned Audience; not to be Your Inſtru<g ref="char:EOLhyphen"/>ctor, but ſo as to bring things to your remembrance.</p>
+            <p>Now it remains that I ſhould ſpeak ſomething of the Miniſters Dignity; and for that you ſee it falls in my Text.</p>
+            <p>There is no Duty but the Lord crowneth it with ſome Priviledge, Bleſſing and Dignity, and that duty and ſervice of the Miniſtry is not excluded, but expreſſed more eminently and emphatically.</p>
+            <p>Now then, <hi>We are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p>This is the great Honour, and Dignity of the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel, to be the Ambaſſadours of Jeſus Chriſt.</p>
+            <p>Therefore we magnifie our Office: and this heightens our Calling from the preciouſneſs of the Truth, which is to be manifeſted by us. The greateſt Myſtery in Heaven and Earth; that upon which depends the great weight of Salvation, a glorious and great diſpenſation is com<g ref="char:EOLhyphen"/>mitted unto us.</p>
+            <pb n="13" facs="tcp:29541:11"/>
+            <p>Firſt, Miniſters are called <hi>Watchmen. Son of man, I have made thee a Watchman unto the houſe of Iſrael.</hi> Ezek. 3.17. a Miniſter hath relation, and is debter unto the whole Church of God. This ſhews the Churches danger, and the Miniſters duty, carefully to watch, and to warn, to foreſee, and foretell danger; this is the Watchmans duty, as not to be <hi>blind watchmen</hi> given to <hi>ſleep</hi> and ſlumber. <hi>Iſa.</hi> 16.10.</p>
+            <p>And upon this very ground the Apoſtle exhorts the <hi>Hebrews,</hi> that they ſhould give Honour and Obedience unto the Guides, Leaders, Governours, and publick Officers of the Church, <hi>becauſe they watch for your ſouls, as they that muſt give account.</hi> Heb. 13.17. therefore Honour, Reverence, Obedience and high Eſtimation is due unto them, as <hi>the Servants of the moſt High God, which ſhew unto</hi> men <hi>the way of Salvation.</hi> Acts 16.17.</p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nomen quaeſivit ab omni ambitione prorſus remotum, &amp; tamen authoritat is maximae, ſi quis ſuo munere ſanctè fungatur. <hi>Beza</hi> in loc. Non dubito quin de Paſtoribus loquatur, &amp; reliquis Eccleſiae gubernatoribus. Nam neque tunc Chriſtiani Magiſtra<g ref="char:EOLhyphen"/>tus erant, &amp; quod vigilare cos dicit pro animabus, ad spirituale regimen propriè pertinet. Primo obedientiam, deinde honorem illis deferre jubet. Haec duo neceſſario requiruntur, ut plebs fidem ao ſimul reverentiam Paſtoribus habeat. Nam quo quiſque plus labo<g ref="char:EOLhyphen"/>ris ſuſcipit noſtra cauſa, &amp; quo majori difficultate, vel periculo ſe nobis impendit, eo ſumus illi magis obſtricti.</p>
+               <bibl>
+                  <hi>Cal.</hi> in Loc.</bibl>
+            </q>
+            <p>Secondly, Becauſe this obedience will make them do their duty with joy and not with grief; With grief and ſorrow for your diſobedi<g ref="char:EOLhyphen"/>ence, when you oppoſe your ſelves, and are obſtinate, and rebellious, and ignorant, and ſet not your hearts to Conſider of what is taught.</p>
+            <p>Thirdly, Becauſe their Rulers diſcouragement occaſioned by their diſobedience, will be unprofitable to the diſobedient; <hi>For that is un<g ref="char:EOLhyphen"/>profitable,</hi> ſaith <hi>Paul,</hi> you ſhall be infinitely looſers at laſt, mourn and be in bitterneſs at the laſt.</p>
+            <p>The Miniſters watch for your Souls to win and gain them if it might be. The Charge of Church Rulers is the heavieſt of all Charges, becauſe of Souls; the moſt aſſiduous and painſul ſetting not of the body onely, but the Spirit on work; becauſe it is a Charge of watch<g ref="char:EOLhyphen"/>ing, the moſt dangerous of all Charges; becauſe the account of loſt
+<pb n="14" facs="tcp:29541:12"/> Souls within the Church, ſhall be required at their hands, <hi>Acts</hi> 20.26,27. whether they have done all that which became them to do, to ſave them or not?</p>
+            <p>All the People ought to <hi>watch.</hi> Mark 13.37. and <hi>to be ſober and vigilant.</hi> 1 Pet. 5.8. But the Miniſter is to watch over all the Flock with a moſt vigilant eye. The two famous Academies of <hi>Oxford</hi> and <hi>Cambridge,</hi> are called the two Eyes of this Land, in compariſon of o<g ref="char:EOLhyphen"/>ther places: And they are (<hi>in Potentia</hi> many of them) to be watch<g ref="char:EOLhyphen"/>men; excelling in more clear ſeeing reaſon, men of Piercing under<g ref="char:EOLhyphen"/>ſtandings, Pure phanſies, Quick inventions, Converſing with God in the immediate dialects of the Holy Ghoſt. Others ſee not but by their Eyes; they ſee with their own what is written in the holy Scri<g ref="char:EOLhyphen"/>ptures. They hear (as it were with their own ears) the very ſame word which God once ſpake unto his People.</p>
+            <p>They can perceive the peculiar and native Elegancy, the ſweet al<g ref="char:EOLhyphen"/>luſions, and Cadences of Words, with the rich and lofty expreſſions in the Original, whereas others can but drink of the waters which run through the Chancls of Tranſlation; they have recourſe to the Foun<g ref="char:EOLhyphen"/>tains themſelves, drink at the Springs Head, where the waters muſt needs be both ſweeter and clearer: For <hi>dulcius ex ipſo fonte bibun<g ref="char:EOLhyphen"/>tur aquae. Inſpectio fontium,</hi> ſaith St. <hi>Auſtin (de doctrina Chriſtiana)</hi> is a ſpecial help for the underſtanding of the Scripture; what need he wait upon a Chanel, that may dwell by a whole Fountain?</p>
+            <p>That I may digreſs a little further.</p>
+            <p>Our Nobility themſelves, have delightfully devoted themſelves, in the morning of their time, to gather their choiceſt flowers out of theſe Gardens. Thoſe that ſtudy not the holy Languages, that dig not in theſe mines; they cannot find ſuch pretious Metal, ſuch good<g ref="char:EOLhyphen"/>ly pearls, ſuch choice Jewels.</p>
+            <p>And ſuch of our Nobility as come to be fervent lovers of ſound Li<g ref="char:EOLhyphen"/>terature, purity of heavenly Doctrine, and godlineſs in ſincerity of heart, wherein true Nobility doth chiefly conſiſt (for indeed there is none truely Noble but the Virtuous) This is the way to add to the Renown of all their famous Progenitors, and propagate an everlaſting augmentation, and increaſe of all virtue, and honour to all that ſhall ſucceed them: Like <hi>Romanus</hi> who was Noble of Birth, but more No<g ref="char:EOLhyphen"/>ble in his Martyrdom. <hi>Not the Blood of my Progenitors,</hi> ſays he, <hi>but Chriſtian Profeſſion makes me Noble.</hi>
+            </p>
+            <p>I ſuppoſe it is granted by all wiſe men, that there is ſome know<g ref="char:EOLhyphen"/>ledge of the Tongues neceſſary to the underſtanding of the Scripture:
+<pb n="15" facs="tcp:29541:12"/> for the Scriptures are underſtood by the ſame means that other humane Writings are; by the uſe of Logick, Rhetorick, Grammar, and thoſe Tongues in which they are expreſſed: though it is moſt true, that there is a ſingular light of the Spirit always to be ſought for by the faithful in the Scriptures, to an acquired habit, though not in that pe<g ref="char:EOLhyphen"/>culiar and ſpecial manner, when they were inſuſed by the Spirit of God into the minds of men.</p>
+            <p>Though the Penmen of holy Scripture wrote not according to Art, (as ſome tell us) but according to grace, which is above all Art: (for unto them the Spirit of God did indite and dictate) Yet they that have written of Art, have found an Art in their Writings. <hi>Non enim ſecundum artem ſcripſerunt, ſed ſecundum gratiam, quae ſuper omnem artem eſt; ſcripſerunt enim quae Spiritus iis loqui dabat; ſed tamen ii qui de arte ſcripſerunt, de eorum ſcriptis artem invenerunt.</hi> Ambr.</p>
+            <p>
+               <hi>Periculoſe docent, qui prius non didicerunt.</hi> They are dangerous Teachers, and unfit for Watchmen, that never were learners.</p>
+            <p>While they will not become Schollars of Truth, they become Ma<g ref="char:EOLhyphen"/>ſters of Errour. Saith Chriſt, <hi>I will make you fiſhers of men;</hi> yet they went not preſently out of the Boat into the Pulpit, he was three year inſtructing them: Chriſt commanded them to ſtay at <hi>Jeruſalem,</hi> till the Holy Ghoſt deſcended on them: <hi>Acts</hi> 2. they muſt not <hi>ſimul recipere &amp; effundere,</hi> Receive in and Pour out at once. <hi>Heri catecu<g ref="char:EOLhyphen"/>menus, hodie Epiſcopus.</hi> But firſt be well principled, and full fraught with ſound knowledge, and good learning.</p>
+            <p>As all the <hi>Iſraelites went down to the Philiſtines, to ſharpen every man his Share, and his Coulter, and his Ax, and his Mattock.</hi> 1 Sam. 13.20. ſo in the Schools of the Prophets, ſtudious young men, do exceed<g ref="char:EOLhyphen"/>ingly ſharpen their underſtandings, grow, and improve themſelves in<g ref="char:EOLhyphen"/>ſenſibly.</p>
+            <p>The <hi>Levites</hi> under the Law were firſt Probationers, before they were allowed to be Practitioners. This is the way to be men of gravity and experience; to Thunder in Doctrine, and Lighten in Converſation, ha<g ref="char:EOLhyphen"/>ving an inward Principle of the light of holineſs in them from Chriſt, that they may ſhine out holily unto others, not onely in the Pulpit and Prayer, but in the whole Courſe of their lives alſo. That they may be able to ſay, as the Chriſtians did of old, <hi>Nos non eloquimur magna, ſed vivimus;</hi> We do not ſpeak great things, but we live them; they cannot look to be ſatisfied by the fruit of their mouths, <hi>qui ope<g ref="char:EOLhyphen"/>ribus deſtruunt, quod recte docent,</hi> who ſay one thing and do another.</p>
+            <pb n="16" facs="tcp:29541:13"/>
+            <p>Secondly, Miniſters are called Prophets, ſuch as by the inſpiration of the Holy Ghoſt did foretel the ruine of ſin, and the reward of virtue, and were interpreters between God and Man.</p>
+            <p>Prophets and Seers, ſuch as were immediately ſtirred up by God, and extraordinarily aſſiſted by his Spirit, in ſuch weighty matters, as could not otherwiſe be effected.</p>
+            <p>Now Prophets are of ſuch account with God, that it is ſaid <hi>God will do nothing, but he would reveal it unto his Servants the Prophets</hi> Amos 3.7. Kings, Prieſts and Prophets, were figures of Chriſt; all theſe were anointed with Oyl, to ſhew that they had greater grace, then the reſt. But eſpecially the Prophets are called Men of God; to ſhew that all that are of God will make much of Prophets for Gods ſake.</p>
+            <p>And <hi>Job</hi> ſpeaks of ſuch as <hi>one of a thouſand, an Interpreter, that ſhew<g ref="char:EOLhyphen"/>eth unto man his righteouſneſs,</hi> and Gods righteouſneſs. Job 33.23.</p>
+            <p>Thirdly, All the people of God muſt work in Gods Vineyard. 1 <hi>Cor.</hi> 3.9. but the Miniſters are co-workers with God. When we Reprove and Rebuke, and threaten for ſin, God he threatens; when we Exhort for Duties to be performed, Graces to be improved: God he Exhorts; when we Invite and perſwade, and Comfort by the Word, God he Com<g ref="char:EOLhyphen"/>forts: and therefore thoſe things, which Gods Miniſters befeech, or Command in the Name of Chriſt; people ought no otherwiſe to re<g ref="char:EOLhyphen"/>ceive them, then if Chriſt Jeſus himſelf ſtood by, and commanded them: Therefore as Chriſt was content to be Baptized of <hi>John Matt.</hi> 3.13. ſo be you content to be inſtructed of us: And they that think themſelves too wiſe, to be taught by us, let all ſuch remember that <hi>God hath choſen the fooliſh things of the world, to confound the wiſe.</hi> 1 Cor. 1.27. Let them think us thoſe Fools whom God hath choſen to confound them.</p>
+            <p>And all ſuch as account our Preaching fooliſhneſs, we grant it unto them that periſh; <hi>For the Preaching of the Croſs is to them that periſh fooliſhneſs: but unto us that are ſaved it is the Power of God, and the wiſdom of God.</hi> 1 Cor. 1.18,24.</p>
+            <p>
+               <hi>We are Labourers together with God,</hi> ſaith the Apoſtle; and of be<g ref="char:EOLhyphen"/>lievers in general, ſaith he, <hi>Ye are Gods Husbandry, Tillage, Field,</hi> or <hi>Building.</hi> 1 Cor. 3.9. which ought to be cloſely united to one another in the ſervice of God.</p>
+            <p>Therefore they ought not to be rent into parties one from another. But the Miniſters are the Builders, to build men up in Faith and Holi<g ref="char:EOLhyphen"/>neſs and in the Comforts of the Holy Ghoſt. <hi>Not for that we have dominion over your Faith, but are helpers of your Joy.</hi> 2. Cor. 1.24.
+<pb n="17" facs="tcp:29541:13"/> And that the fear of God might be in every Heart, and the worſhip of God in every Family, as ſo many Temples or Sanctuaries.</p>
+            <p>Fourthly, Though all Believers in general be the Servants of God, yet the Miniſters are the Stewards, and Diſpencers of the bleſſed myſte<g ref="char:EOLhyphen"/>ries of Salvation. <hi>Let a man ſo account of us, as of the Miniſters of Chriſt, and Stewards of the Mysteries of God.</hi> 1 Cor. 4.1.</p>
+            <p>The Magiſtrate is (as it were) a Fingers of Gods Hand, the Mi<g ref="char:EOLhyphen"/>niſter a Steward in his Houſe, though in a large ſenſe all are the Lords Miniſters. Saith <hi>Luther,</hi> A Maſter of a Family hath ſomething to do, a Magiſtrate more, and a Miniſter moſt of all.</p>
+            <p>Fiftly, Miniſters are called Stars, for that they muſt ſhine in the Fir<g ref="char:EOLhyphen"/>mament of the Church here, ſhine others, and out-ſhine all others, as Stars of the firſt magnitude, yea as the Sun it ſelf: When God ſet the Sun in the Firmament, he bad him ſhine there; ſo when God ſets a Miniſter in a place, he expects he ſhould ſhine in his Miniſtry. <hi>The Heavens declare the glory of God;</hi> Pſal. 19.1. now how do they do it, but to the Eyes of men, and by the Tongues of men, for whom they were made: For as a mans Tongue is his glory, ſo it ſhould eſpecial<g ref="char:EOLhyphen"/>ly be for the glory of his God. But for a Miniſter God hath promi<g ref="char:EOLhyphen"/>ſed moſt divine aſſiſtance, that he will be with <hi>his mouth,</hi> Exod. 4.12. and ſaith Chriſt to his Diſciples, <hi>It is not ye that speak, but the Ho<g ref="char:EOLhyphen"/>ly Ghoſt</hi> Mark 13.11. Yet that extraordinary Promiſe was moſt pro<g ref="char:EOLhyphen"/>per to the times of the Primitive Perſecution. A Miniſters work is in a moſt ſpecial manner to Trumpet forth the praiſes of his God; to ſhine in the firmament of the Church here, and to out-ſhine the Sun in the Kingdom of his Father hereafter.</p>
+            <p>
+               <hi>They that be wiſe ſhall ſhine, and they that turn many to righte<g ref="char:EOLhyphen"/>ouſneſs as the Stars for ever and ever.</hi> Dan. 12.3. Firſt wiſe for the ſalvation of their own ſouls, that when they have <hi>Preached unto others</hi> they <hi>themſelves may not become cast-aways.</hi> 1 Cor 9.27. Like thoſe Carpenters, that built the Ark to ſave others, and were drowned them<g ref="char:EOLhyphen"/>ſelves: Or like Porters of Great mens Gates, that let in others, but lodge without themſelves.</p>
+            <p>Secondly, Gaining of others, ſaving himſelf, and <hi>them that hear him.</hi> 1 Tim. 4.16 <hi>Timothy</hi> muſt ſave himſelf and them that hear him; and then this is a pledge of our glory; the Promiſe is clear, <hi>they that turn many to Righteouſneſs ſhall ſhine as the Stars for ever and ever.</hi>
+            </p>
+            <p>Miniſters are like Lamps which conſume themſelves to give light unto others. And from hence ſome do ſtrongly imagine, that the bleſſed
+<pb n="18" facs="tcp:29541:14"/> Apoſtle had a peculiar regard and reſpect unto Miniſters in that 2 <hi>Cor.</hi> 5.1. <hi>For we know, that if our earthly houſe of this tabernacle were diſ<g ref="char:EOLhyphen"/>ſolved, we have a building of God, an houſe not made with hands, eter<g ref="char:EOLhyphen"/>nal in the Heavens.</hi> q. d. dye when you will, heavenly <hi>manſions</hi> are ready for you. <hi>Joh.</hi> 14.2. your eternal happineſs and bleſſedneſs is ſecured, which being ſo; thoſe Miniſters which are ready to ſay with <hi>Peter,</hi> they will dye for Chriſt. O what pains then ſhould they take for him?</p>
+            <p>Miniſters are <hi>the Light of the world,</hi> in the places where they live, <hi>Matt.</hi> 5.14. and where they are wanting, their People <hi>ſit in Dark<g ref="char:EOLhyphen"/>neſs, and in the ſhadow of Death.</hi> Luke 1.79. that is, they are Blind, and Ignorant, <hi>Dead in treſpaſſes and ſins.</hi> Epheſ. 2.1. rophane, without all the Life of grace in them; they are abominable in the Eyes of God, and all their actions are odious unto him, they are under the power of Satan, and under the wrath of God.</p>
+            <p>Though it is true, that Chriſt is the true Light of the World, as well as the true Salt of the Earth; yet it is as true, that Gods faithful Miniſters are the <hi>Salt of the Earth.</hi> Matt. 5.13. to make people ſa<g ref="char:EOLhyphen"/>voury both in heart and life; ſo that a conſtant, painful, faithful, pow<g ref="char:EOLhyphen"/>erful Miniſter Preaching to the Conſciences of men, there will be ſuch an efficacious effect of this, that even wicked men cannot ſo eaſily ſin againſt God.</p>
+            <p>Sixtly, Miniſters are called <hi>Angels;</hi> Rev: 2.1. now Angels are Spi<g ref="char:EOLhyphen"/>rits, ſpiritual ſubſtances, as the Pſalmiſt ſpeaks, he maketh his Angels Spirits, they are ſpiritual creatures; their Communion, their Food, their Affections, their minds are Spiritual; ſo a Miniſter, though he is a body, yet he is a ſpiritual man. If you ſay, ſo is every Believer, I anſwer; But a Miniſter is a ſpiritual man in a more ſpecial manner, as one that comes nigh unto God; his Office and Imployment is Spiritual. Divinity being of all Arts the ſupreme, moſt noble, and maſter-piece, proceeding in a ſpecial maner from God himſelf, treating of God, and Divine matters, and tending, and leading men to God.</p>
+            <p>
+               <label>1. <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </label>
+            </p>
+            <p>For Exhortation to Miniſters, that they would be careful to teach the People: If people periſh for want of knowledge, ſhall Mini<g ref="char:EOLhyphen"/>ſters eſcape who are negligent in teaching? be ſure of it both ſmart together, they for their Ignorance, theſe for their Negligence; ſuch Miniſters have their doom in that Scripture, <hi>Hoſea</hi> 4.6. <hi>Becauſe thou hast rejected knowledge, I will reject thee,</hi> whoſe office it was to inſtruct, admoniſh, reprove, intreat, and by all means to turn the peo<g ref="char:EOLhyphen"/>ple
+<pb n="19" facs="tcp:29541:14"/> from their evil ways. O that ſuch men would be pleaſed to con<g ref="char:EOLhyphen"/>ſider, that the beſt ſervice they can do, the greateſt honour they can attain unto, is to be faithful Labourers in Gods Vineyard. What an honour and happineſs is it to a man, to be made a Common Bleſſing unto all men round about him? to be Eyes to the Blind, Legs to the Lame, a Mouth to the Dumb, a Staff to the Feeble, a Phyſician to the Sick, a Counſellour in hard Caſes, a Watchman in Danger, a Captain in Conflicts; ſo much, and much more is a Miniſter unto his People; if he do his duty as he ought.</p>
+            <p>And unworthy are they of that office, who ſcorn to take the pains that belongs to it, or think it an eaſie, or ſmall matter to ſave a ſoul from death.</p>
+            <p>
+               <label>2. <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi>
+               </label> Hence we may ſee by what hath been ſaid, that the Office of the Miniſtry is no baſe office; nay, the whole world hath not a greater Office in it. The Apoſtle tells us, That Jeſus Chriſt the Prince of the Kings of the Earth, was a Miniſter to confirm the Promiſe made unto the Fathers. The office of a Miniſter is an Angels Office; the Angels of Heaven, the higheſt of them in their places, never go on greater Errands. When they came to the Shepherds, what did they do, but tell of the Birth of Chriſt? <hi>Peace on earth, and good will towards men.</hi> Luke 2.14. And is not this our buſineſs alſo? to treat between God and man, about eternal life? We are the Friends of the Bride<g ref="char:EOLhyphen"/>groom, <hi>We are Ambaſſadours for Chriſt, and God doth beſeech you by us.</hi> We are ſutors not for our ſelves, but for him; deſiring to <hi>Eſpouſe you unto one Husband, and to preſent you chaſt <g ref="char:V">Ʋ</g>irgins to Chriſt.</hi> 2 Cor. 11.2. Our work is to Cater for Heaven, to <hi>ſeed the ſlock of God,</hi> 1 Pet. 5.2. to win ſouls, to gather together with Chriſt, <hi>Matt.</hi> 12.30. to bring in Cuſtom for the Kingdome of God. So that a Miniſter doth not darken knowledge, but his Lips keep and diſperſe Knowledge. <hi>Prov.</hi> 15.7. and the people therefore <hi>ſhould ſeek the Law at his mouth,</hi> for he is the meſſenger of the Lord of hoſts. <hi>Mal.</hi> 2 7. openeth the window to let in the light; breaketh the ſhell, that we may eat the kernel; putteth aſide the curtain, that we may look into the moſt holy place; removeth the cover of the well, that we may come by the water.</p>
+            <p>Is he then a Contemptible perſon which bringeth the Meſſage of God? which hath the name of an Angel, the miniſtry of Life; or elſe what is the meaning of the Text, <hi>Now then we are Ambaſſadours for Chriſt?</hi>
+            </p>
+            <p>Certainly the leaſt man in the Miniſtry ought not to be contemned. As in a Building, ſome bring Stones, ſome Timber, others Morter,
+<pb n="20" facs="tcp:29541:15"/> and ſome perhaps bring onely Nails; yet theſe are all uſeful in their places; the very Nails ſerve to ſaſten the work in the Building.</p>
+            <p>Thus the Church of God is a ſpiritual Building; ſome Miniſters bring ſtones, like <hi>James, Cephas,</hi> and <hi>John, Pillars</hi> in the Houſe of God. <hi>Gal.</hi> 2.9. are more eminent and uſeful: Others uſeful pleces of Tim<g ref="char:EOLhyphen"/>ber, though not Pillars, others leſs; they may have but a Nail in the Work, yet all ſerve for the good of the Building. The leaſt Star gives light, and the leaſt drop moiſtens; <hi>Grandis dignitas Sacerdotum,</hi> &amp;c. <hi>Hieron.</hi> in <hi>Ezek.</hi> The leaſt Miniſter is no leſs then an Angel; the leaſt Nail in the Miniſtry ſerves for the faſtening of Souls unto Chriſt; there is ſome uſe to be made even of the loweſt parts of men, the weak<g ref="char:EOLhyphen"/>eſt Miniſter may help to ſtrengthen ones Faith, though all are not A<g ref="char:EOLhyphen"/>poſtles, all are not Evangeliſts, all have not the ſame dextrous abilities in the Miniſtry, yet all edifie: And ſometimes it comes to paſs, that God crowns his labours, and ſends, moſt fiſh into his net, who though he be leſs skilful, is more faithful, and though he have leſs of the Brain, like <hi>Jacob</hi> in reſpect of <hi>Eſau, Gen</hi> 25.27. yet he may have more of the Heart, go away with the Bleſſing; and therefore not to be Contemned.</p>
+            <p>
+               <hi>L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a man ſo account of us,</hi> ſaith the Apoſtle, <hi>as of the Miniſters of Chriſt, and Stewards of the Myſteries of God.</hi> 1 Cor. 4.1. <hi>q. d.</hi> Take heed how you ſleight our Miniſtery; you cannot deſpiſe, ſleight, and contemn our Perſons and Office, and have Life and Salvation. You cannot have the the myſteries of grace, ſaving knowledge, regenerati<g ref="char:EOLhyphen"/>on, and faith, without us, effectual calling, Juſtification, and glori<g ref="char:EOLhyphen"/>fication. What the Lord may do in an extraordinary manner, that I will not diſpute; but this is Gods ordinary way, which he hath eſtabliſh<g ref="char:EOLhyphen"/>ed, and we may not expect another; not a new Revelation from hea<g ref="char:EOLhyphen"/>ven. <hi>Rom.</hi> 10.14. <hi>How ſhall they believe in him of whom they have not heard, and how ſhall they hear without a Preacher.</hi> Acts 26.17,18. Saith God to <hi>Paul, I ſend thee to the Gentiles, to open their eyes, and to turn them from darkneſs to light.</hi> There is Effectual calling; under which is comprehended union with Chriſt, Regeneration, ina<g ref="char:EOLhyphen"/>bling us unto Repentance towards God, and Faith towards our Lord Jeſus Chriſt, [That they may receive remiſſion of ſins.] there is ju<g ref="char:EOLhyphen"/>ſtification; under which is contained Gods remiſſion of our ſins, and his acceptation of our perſons, unto Life and Salvation. [And an in<g ref="char:EOLhyphen"/>heritance among them that are ſanctified.] There is glorifica<g ref="char:EOLhyphen"/>tion, under which is couched as well Gods glorifying of us in this life:</p>
+            <pb n="21" facs="tcp:29541:15"/>
+            <p>Firſt, By conferring upon us glorious priviledges, as Adoption, Kingſhip, crowning every good ſoul with that ſtile, <hi>Regale ſacerdo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>um, Royal Prieſthood</hi> 1 Pet. 2.9. to be Royal without Prieſthood, ſeemed not to him Dignity enough, and indeed of all the Offices of Chriſt his Prieſthood is the main.</p>
+            <p>Secondly, Imparting to us here in this world glorious graces, and thereby inabling us to glorious performances.</p>
+            <p>Thirdly, His Crowning us with glorious Joys, and ſweet peace of Conſcience.</p>
+            <p>So then, that which I clearly collect from the words, is this; That the Preaching of the Goſpel, is the means appointed by God, where<g ref="char:EOLhyphen"/>by we ſhall be Called, Juſtified, and Sanctified. Therefore our Office is no mean Office.</p>
+            <p>When the Prophet <hi>Eliſha</hi> ſent fot <hi>Naaman</hi> the Leper, to come un<g ref="char:EOLhyphen"/>to him, theſe were his words, <hi>He ſhall know that there is a Prophet in Iſrael.</hi> 2 Kings 5.8. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s though all the glory of <hi>Iſrael</hi> were chiefly in this, that they had Prophets, and others had none.</p>
+            <p>So when <hi>Eliſha</hi> was dying, <hi>Joaſh the King wept over his face, and cryed, O my Father, my Father; the Chariot of Iſrael, and the Horſe<g ref="char:EOLhyphen"/>men thereof.</hi> 2 Kings 13.14. Shewing that the Chariots of <hi>Iſrael,</hi> and the Horſemen thereof, do not ſo ſafe guard a City as the Prophets which teach it, and pray for it.</p>
+            <p>How joyful and glad was <hi>Lydia</hi> when ſhe could draw, and conſtrain <hi>Paul,</hi> and <hi>Silas</hi> to her houſe? <hi>If ye have judged me faithful to the Lord,</hi> ſaith ſhe, <hi>come into my Houſe, and abide there.</hi> Acts 16.15. ſhewing that never any Gueſts were ſo Welcome to her Houſe before.</p>
+            <p>The <hi>Shunamite</hi> perceiving that <hi>Eliſha</hi> was an holy man of God, ſpake unto her husband to build a new Room to welcome him, and to keep him with her, ſhe thought all the places in her houſe too bad for him. 2 <hi>Kings</hi> 4.9,10.</p>
+            <p>How much did the <hi>Galatians</hi> make of St. <hi>Paul?</hi> that he ſaith, They would have plucked out their own <hi>eyes,</hi> if it had been poſſible, to have done him good. <hi>Gal.</hi> 4.15.</p>
+            <p>
+               <hi>How beautiful are the feet of them, that Preach the Goſpel of peace, and bring glad tidings of good things.</hi> Rom. 10.15. So it is evident, and manifeſt that once a Miniſter was eſteemed like a Miniſter. And hath God bidden you deſpiſe them now, which bad you honour them before? 1 <hi>Tim.</hi> 5.17. Let the Elders that Rule well, be accounted worthy of double honour, eſpecially they who Labour in Word and Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <pb n="22" facs="tcp:29541:16"/>
+            <p>Such as apply their ſpirits moſt to the glory of God, and the Publick good; eſpecially ſuch as are <hi>Timothies</hi> in their houſes, <hi>Chryſoſtoms</hi> in their Pulpits. S. <hi>Chryſoſtom</hi> was ſuch a golden mouth'd Preacher, <hi>Mellitiſſi<g ref="char:EOLhyphen"/>mus Chriſti Concionator;</hi> he was ſo admired for his ſweet winning Elo<g ref="char:EOLhyphen"/>quence, as that all the people cryed out when he was like to be ſilen<g ref="char:EOLhyphen"/>ced, <hi>Satius eſt ut ſol non luceat, quam ut non doceat Chryſoſtomus;</hi> We had better want the Sun, then the Preaching of St. <hi>Chryſoſtom.</hi>
+            </p>
+            <p>And S. <hi>Auſtin ſtudied</hi> to make his language ſweet and harmonious, and acceptable to Gods people. Some degree of Eloquence ſeems to be meet for a Miniſter; for <hi>Moſes</hi> ſaith to God, <hi>I am not Eloquent.</hi> Exod. 2.10.</p>
+            <p>
+               <label>3. <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </label> Thirdly, Hence we may ſee who are the beſt Miniſters; not they that can plot moſt for Preferment, or can Preach moſt for Applauſe, ambitious of a little popular breath, but he that ſetteth himſelf with all his might to do good. <hi>He that winneth ſouls is wiſe.</hi> Prov. 11.30. becauſe of the great difficulty of this work, he is wiſe to himſelf, he lays up a good foundation againſt the time to come. They are the beſt Miniſters that carry people to heaven; though I know a Converting work is not for us, but for the Holy Ghoſt; <hi>roſtra habet in Coelis, qui corda docet.</hi> Yet ſometimes the Lord is wonderful powerful and efficacious, by that word which we preach, piercing through the very hearts and ſouls of men, and leaving impreſſions of an immortal nature upon their ſpi<g ref="char:EOLhyphen"/>rits.</p>
+            <p>How fain would Chriſt have ſaved the people of <hi>Jeruſalem,</hi> the name is doubled to expreſs the truth, and certainty of his great affection. <hi>How often would</hi> I <hi>have gathered,</hi> &amp;c. <hi>Matt.</hi> 23.37.] God offered them mer<g ref="char:EOLhyphen"/>cy, while they had the diſpenſation of the means of grace:</p>
+            <p>And good Miniſters like a Hen which clocketh her Chickens, toge<g ref="char:EOLhyphen"/>ther from the Kite, ſo they clock you together from the Serpent. They would fain do ſo. <hi>Knowing therefore the terrour of the Lord, we per<g ref="char:EOLhyphen"/>ſwade men.</hi> 2 <hi>Cor.</hi> 5.11. the wrath of God is an unſupportable burthen; Who is able to dwell with devouring fires and everlaſting burnings? therefore would we perſwade men, all men. When <hi>Agrippa</hi> was almoſt perſwaded to be a Chriſtian, ſaith <hi>Paul, I would to God that not onely thou, but alſo all that hear me were both almoſt, and altogether.</hi> Acts 26.28.29. A good Miniſter would carry all his people to heaven with him.</p>
+            <p>How deeply is <hi>Moſes</hi> affected that the ſin of <hi>Iſrael</hi> might be forgi<g ref="char:EOLhyphen"/>ven, <hi>Exod.</hi> 32.32. what extraordinary zeal and love for the ſalvation of men? and as if his joy would have been utterly drowned in the
+<pb n="23" facs="tcp:29541:16"/> deſtruction of the Church, or had no part in the Election of Grace. <hi>Tertullian</hi> underſtandeth it typically and figuratively of Chriſt the good Shepherd, who was to be exhibited, and to Dye for the Sheep.
+<q>
+                  <p>Certe quidem bonus Paſtor animam pro pecoribus ponit, ut Moſes non homini adhuc Chriſto revelato, etiam in ſe figurato ait, ſi perdis hunc populum, inquit &amp; me pariter cum eo diſperde.</p>
+                  <bibl>
+                     <hi>Tertull.</hi> de fuga in Perſecutione. <hi>Cap.</hi> 11.</bibl>
+               </q>
+            </p>
+            <p>And it is true that <hi>Moſes</hi> was a typical Mediator, and did atone for them. <hi>Exod.</hi> 32.30. With what a bleeding heart doth St. <hi>Paul</hi> ſpeak for the ſalvation of the Jews? <hi>Rom.</hi> 9.1,2,3. ſervent appearing in the degree of it, with this unexpreſſable adjunct, <hi>great heavineſs.</hi>
+            </p>
+            <p>Secondly, Continuance of it, <hi>Continual ſorrow in my heart: for I could wiſh that I my ſelf were accurſed from Chriſt.</hi>
+            </p>
+            <p>And truely we that are the Miniſters of the Church of <hi>England,</hi> might ſpeak this even with tears of blood, if we were able, when we conſider how many people in <hi>England</hi> ſeem to looſe the hope of a good beginning, who have ſuck'd their firſt <hi>ſincere milk of the word, that they might grow thereby.</hi> 1 Pet. 2.2. in waiting upon God in his publick ordinances, and bleſſed God that they might wait, ſeemed to be in a good forwardneſs, in the of way of Life and Sal<g ref="char:EOLhyphen"/>vation, confeſſed that they have received comfort, and will ſtill to this day acknowledge it; yet by reaſon of ſome who never (we have cauſe to fear) were converted unto Chriſt, but unto an opinion, Fantaſtical ſpirits which in Corners pour out their Poiſon, and come not at the Congregations, as <hi>Luther</hi> ſpeaks, and ſo they fall off and turn either unto Athieſm, or Quakeriſm, <hi>&amp;c.</hi> And there is no doubt, but that this hath been no little grief and trouble unto our godly and diſſenting brethren themſelves, when they ſee ſuch ſad effects of that doctrine which they have preached. It is one good argnment of piety to love the place where God ſpeaks, the houſe of his preſence. <hi>Pſal.</hi> 26.8. <hi>Lord, I have loved the habitation of thy houſe, and the place where thine honour dwelleth.</hi> As the Sun ſhines gloriouſly though no eye be<g ref="char:EOLhyphen"/>hold it, and pure waters flow from the fountain though none drink of them; ſo Miniſters are the light of the world, though few be enlight<g ref="char:EOLhyphen"/>ned by them, and the ſalt of the earth, though few be ſeaſoned by them.</p>
+            <p>
+               <label>4. <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </label> Let me then Exhort you all unto this happy Reconciliation with God. Reconciliation preſuppoſeth a breach; and indeed this was the greateſt that ever was made by reaſon of the ſins of man.</p>
+            <p>There was a heavy war denounced in the <hi>inimicitias ponam,</hi> when
+<pb n="24" facs="tcp:29541:17"/> God raiſed a war between the Devil and us <hi>Gen.</hi> 3.15. Gods wrath provoked, man thrown out of <hi>Paradiſe,</hi> Curſed in his name, nature, body, ſoul, ſenſes, friends, and whatſoever he takes in hand. <hi>Adams</hi> Poſterity as well as himſelf became bondmen to Hell; the Earth made barren for his ſake, and all the days of his life he was to eat his bread in the ſweat of his face, Man an enemy to God, God and man at a ve<g ref="char:EOLhyphen"/>ry great diſtance (I mean a diſtance of ſtate and condition) and ſo un<g ref="char:EOLhyphen"/>happy man deſireth to continue, never to have to do with God for ever.</p>
+            <p>And how ſad and dreadful is it to conſider, how averſe men are un<g ref="char:EOLhyphen"/>to all means that can be uſed to reduce them, and bring them back a<g ref="char:EOLhyphen"/>gain to God. They think not of him, they ſpeak not of him, <hi>deſire not the knowledge of him, nor any of his ways.</hi> Job. 21.14.</p>
+            <p>And ſome they can never be far enough from God, and therefore the Prodigal went into a far Countrey. Men having loſt their Com<g ref="char:EOLhyphen"/>munion, fellowſhip, friendſhip, and acquaintance with God, deſire ſo to continue, like ſome of the <hi>Iſraelites,</hi> who began to be in love with their bondage and ſlavery in <hi>Egypt.</hi>
+            </p>
+            <p>And how many thouſands and millions have we cauſe to fear there be, who are dead while they live, or at the beſt but <hi>luke-warm,</hi> ſuch as Chriſt threatens to <hi>ſpue them out of</hi> his <hi>mouth.</hi> Rev. 3.16. ſerving of God in ſuch a ſleight, perfunctory negligent and careleſs manner, only for faſhions ſake, and by fits, ſometimes perhaps pray when the night comes, hear when the Sabbath comes, faſt when Lent comes, and think to repent when death comes.</p>
+            <p>And alas all this while, they are under the wrath and Curſe of God, liable to all the miſeries of this life, to Death it ſelf, and thoſe pains that are endleſs, eaſeleſs, and remedileſs.</p>
+            <p>And yet men are in a golden Dream, and bleſs themſelves in their evil ways until the very flames of Hell take hold on them. The Lord threatens, <hi>he will not ſpare them,</hi> but his <hi>jealouſie and anger ſhall ſmoke againſt them, blot out their name from under heaven.</hi> Deut. 22 20. ſe<g ref="char:EOLhyphen"/>parate them unto evil; what can be more miſerable and dreadful then and deſolation?</p>
+            <p>Let me then in the name of God Exhort you all to ſeek the Lord in good earneſt while he may be found. Know in this your day the things of your eternal peace, without which you had better never to have come upon the Stage of the World. O what will become of men at that great Day? that have all th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir time here been <hi>found fighters againſt God, treaſuring up wrath againſt the day of wrath.</hi> Acts 5.39.
+<pb n="25" facs="tcp:29541:17"/> Rom. 2 5. every day carrying a Faggot to that Pile, which ſhall burn them for ever, a Brand to that Hell, which Sin, and the Wrath of God hath made ſo hot already. O for men to be in the very <hi>gall of bit<g ref="char:EOLhyphen"/>terneſs, and in the bond of iniquity!</hi> Acts 8.23. poſſeſſed with moſt wicked malice, ſlaves to the Devil to do all manner of wickedneſs; to be given up to blindneſs of mind, utterly deſtitute of the true knowledge of God, and of his Son Jeſus Chriſt; under <hi>ſtrong deluſions,</hi> to take pleaſure in <hi>believing lies.</hi> 2 Theſ. 2.11,12. This is the greateſt judgment that can befal you, unleſs the earth ſhould open and ſwallow you up, like <hi>Korah, Dathan,</hi> and <hi>Abiram.</hi> Numb. 16.32,33. when Husbands and Wives, Parents and Children, Maſters and Servants, went all quick to hell together.</p>
+            <p>Yet for ought we know while God in juſtice killed their bodies, he might in mercy ſave ſome of their ſouls. He that repenteth not to day, will have one day more to account for, and one day leſs to re<g ref="char:EOLhyphen"/>pent in: And who knows what may depend upon one day?</p>
+            <p>Yet Prayers and Tears may do you good. But ſtay a while; and though ſtreams of blood ſhould flow from you, and you ſhould cry and howl to God to all Eternity, it would never do it; therefore know your time. It is a happy thing for a man to do a buſineſs in ſuch a time wherein he may have the comfort of it, the benefit of it.</p>
+            <p>God proclaims and ſays to every one of you, <hi>this day;</hi> Friend, poor ſoul, as ever you expect to receive mercy, look to it now: for now the golden Scepter is ſtretched forth, now is the acceptable time and the day of grace and ſalvation; come in and accept of the offers and ten<g ref="char:EOLhyphen"/>ders of grace and mercy now, or elſe you may be loſt and gone for ever, <hi>qui jam non credit impoſterum ſentiet,</hi> he that will not now believe ſhall hereafter feel, ſooner or later, <hi>The ſinner an hundred years old ſhall be accurſed.</hi> Iſa. 65.20. <hi>Tua res agitur non Dei;</hi> thou art the perſon concerned, this buſineſs concerns thy life, thy Eternal eſtate. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Chryſ.</hi> in Loc. It is not ſaid, Reconcile God to your ſelves, for God doth not make the breach, but reconcile your ſelves to God.</p>
+            <p>Certainly it concerns men, that have not made their peace with God, to ſpend their days in bewailing their ſinful and miſerable condition, to exchange all their carnal joy for ſome godly ſorrow, that God may give them that in tears which they could never find in ſenſual plea<g ref="char:EOLhyphen"/>ſures, that God may give them ſalvation; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Naz. <hi>Orat.</hi> 17. God hath joyned ſalvation, with ſorrow and ſighing, godly ſorrow, and ſighing is the ſouls food, and the minds
+<pb n="26" facs="tcp:29541:18"/> refection. Therefore do not ruffle it out in the world, taking your fill of Pleaſure, as if this world were made on purpoſe for you to ſport in; Remember what the Prophet <hi>Iſaiah</hi> ſaith, <hi>And what will ye do in the day of viſitation?</hi> in the great Day, <hi>whom will ye flye for help to?</hi> Iſa. 10.3. when the Earth ſhall burn, and the Heavens ſhall flame, and the Elements ſhall melt with fervent heat, and all the Tribes of the Earth ſhall mourn before the Lord. Although the Lord keep many terrible privy Seſſions, and ſharp and ſevere Viſitations, for to keep this world in order, yet he hath reſerved the great Aſſiſe, the great Viſitation until the laſt Day.</p>
+            <p>And therefore is this a time to be carnal, and ſecure? and ſleeping, when you ſhould be running for the Crown of glory? to be an Athieſt in the world?</p>
+            <p>
+               <hi>The wicked through the pride of his countenance, will not ſeek after God, God is not in all his thoughts.</hi> Pſal. 10.4. or all his thoughts are, <hi>there is no God. non eſſe Deum ſunt omnes cogitationes ejus. Junius. This is that fool that hath ſaid in heart, there is no God.</hi> Pſal. 14.1. it is ra<g ref="char:EOLhyphen"/>ther an Option then an Opinion, faith S. <hi>Auſtin,</hi> He could be content there was none. <hi>Ita tacitus loquntus eſt impius, non eſt Deus, vel utinam non eſſet Deus.</hi>
+            </p>
+            <p>God is not the object of his joy, his thoughts, and meditationsu, either is he careful and ſolicitous aboutheavenly and divine things being intentive about prophane. The beſt things are ſhut out of his heart, <hi>Intus exiſtens prohibet alienum;</hi> he lives as if there were no God, with no due ſenſe, awe, or reverence of the moſt Holy, and glorious God. Theſe men are moſt truly <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Without God in the World.</hi> Eph. 2 12. <hi>hic labor, hoc opus.</hi> And therefore to get men to be recon<g ref="char:EOLhyphen"/>ciled to God; this is a work indeed, a very difficult work: Well might <hi>Paul</hi> ſay, <hi>Who is ſufficient for theſe things?</hi>
+            </p>
+            <p>Herein conſiſts the great work of Reconciliation, when Parties be<g ref="char:EOLhyphen"/>tween whom hath been friendſhip, and afterward breaches made, then they are brought into favour again; as S. <hi>Bernard</hi> tells us in his 32. Ser<g ref="char:EOLhyphen"/>mon <hi>ſuper Cantica. Quidest reconciliatio, niſi iterata animorum diſ<g ref="char:EOLhyphen"/>ſidentium conciliatio?</hi> And the ſame Father tells us, that there are three to whom we ought to be reconciled, To God, Angels, and Men. Un<g ref="char:EOLhyphen"/>to Men by <hi>manifeſt</hi> deeds, clear and ſhining, which are to be wrought before men <hi>Joh.</hi> 3.21. <hi>Let your light ſo ſhine on earth to the glory of your Father in heaven.</hi> Matt 5.16. There's a demonſiration. Feed the hungry, relieve the Poor; There's another demonſtration.</p>
+            <p>When this is done in Faith; and in Obedience to the Commande<g ref="char:EOLhyphen"/>ments
+<pb n="27" facs="tcp:29541:18"/> of God? 'tis one excellent way for rich men to lay up ſome of their treaſures in heaven: and then let their hearts follow their treaſure thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>This is a brave noble way of giving Earth a tranſlation, and to im<g ref="char:EOLhyphen"/>prove every Alms and Penny to the beſt, laying up in ſtore for them<g ref="char:EOLhyphen"/>ſelves, a good Foundation againſt the time to come. <hi>That they may lay hold on eternal life.</hi> 1 Tim. 6.17,18,19.</p>
+            <p>Secondly, Unto Angels by hidden and ſecret ſigns, which are ſighs and groans; <hi>Angelorum delitiae Poenitententium lacrymae.</hi> and other ſigns of repentance which pleaſe and delight the Angels, who are ſent about Gods Meſſages to this Earth.</p>
+            <p>
+               <hi>There is joy in the preſence of the Angels of God, over one ſinner that repenteth.</hi> Luke 15.10. And good Miniſters are glad too, when they can perceive it. How glad was the holy Apoſtle when he perceived it in the <hi>Romans,</hi> and asked them, <hi>What fruit had ye then in thoſe things, whereof ye are now aſhamed?</hi> Rom. 6 21.</p>
+            <p>Certainly, ſin is not a gainful way; without doubt, more men are impoveriſhed and beggered by ſinful courſes, then enriched; ſin cannot be the way to Glory and Honour: for we dare not avow our ſins, but are aſhamed of them, when they are done; fruitleſs, unprofitable before, ſhame and diſhonour after.</p>
+            <p>Mens Souls are deſperately ſick of ſin, and at Deaths door; muſt we tell them of Heaven, and an immortal Crown, and Kingdom, before re<g ref="char:EOLhyphen"/>penting of their wickedneſſes, till they be firſt recovered in ſome meaſure from <hi>the gall of bitterneſs, and bond of iniquity.</hi> Acts 8.22. from the jaws of Hell, and ſnare of the Devil? Revive them with the Goſpel, before they be humbled with the Law? Without any humiliation, repen<g ref="char:EOLhyphen"/>tance, ſighs, and grones; certainly we cannot give you comfort. We dare not apply the oyl of Conſolation, till we have ſcoured your feſtred wounds with the ſharp wine of Reprehenſion.</p>
+            <p>
+               <hi>Be not deceived, God is not mocked: for whatſoever a man ſoweth, that ſhall he alſo reap.</hi> Gal. 6.7.</p>
+            <p>
+               <hi>If ye live after the fleſh ye ſhall dye.</hi> Rom. 8.13. When Iniquity hath played her part, then ſhall Vengeance leap upon the Stage. <hi>The wicked ſhall be turned into hell, and all the nations that forget God.</hi> Pſal. 9.17. And that with a <hi>Go ye Curſed into everlaſting fire prepared for the Devil and his angels.</hi> Mat. 25.41.</p>
+            <p>Could we behold your Cheeks blubbered with Tears, your Hands beating your Breaſts, like the poor penitent Publican. <hi>Luke</hi> 18.13. your Cryes reſounding at Heaven Gates for mercy: or any way
+<pb n="28" facs="tcp:29541:19"/> but perceive your Repentance and Indignation againſt Sin;</p>
+            <p>Then ſhould we think it high time, and ſeaſonable, to ſing as ſweet<g ref="char:EOLhyphen"/>ly as we can, of the tender mercies of God, and the Riches of his grace, unto afflicted and broken ſpirits.</p>
+            <p>Thirdly, We muſt be reconciled to God by Purity, ſingleneſs, and ſincerity of heart, wherein the perfection of the Goſpel doth conſiſt. <hi>Mat.</hi> 5.8.</p>
+            <p>And now Men, Brethren, and Fathers, with what words ſhall I beſpeak you all, to live to that God from whom you ſhine? That when the Grave ſhall be open for you, Heaven may not be ſhut a<g ref="char:EOLhyphen"/>gainſt you. O you that are yet aſleep in ſin, is it not <hi>high time for you to awake?</hi> Rom. 13.11. And that knowing the time, that now it is high time to awake out of ſleep. The time of the light of the Goſpel which is as it were the Dawning of that great everlaſting Day; the words are an Alarm, or Summons unto ſpiritual vigilancy; an ap<g ref="char:EOLhyphen"/>peal to Conſcience for the neceſſity of the Duty: And now know<g ref="char:EOLhyphen"/>ing the time, the Propinquity and nearneſs of ſalvation, <hi>The night is far ſpent.</hi>
+            </p>
+            <p>Shall the Heavens be all <hi>in flaming fire,</hi> 2 Theſ. 1.8. and the Ele<g ref="char:EOLhyphen"/>ments melt with ſervent heat, before you will begin to fear God? The Sun ſhined upon <hi>Sodom</hi> in the morning, and yet the horrible wrath of God fell upon them before evening, and thy Soul may be in Hell before the next morning; as that rich Churls, who reckoned upon many years, and had not a day to live. <hi>Luke</hi> 12.20.</p>
+            <p>Shall the great Luminaries of Heaven, <hi>the Sun and the Moon be darken<g ref="char:EOLhyphen"/>ed?</hi> Mat. 24 29. before that ſoul of thine be inlightened? And the Stars fall down from Heaven, before thou wilt fall down in all humi<g ref="char:EOLhyphen"/>lity before thy Maker, confeſſing and forſaking thy ſins? Shall the Sea give up her Dead, before thou art alive? and the Harveſt of the world to come, before the Seeds of grace, and eternal life be ſown in thy heart? art thou ſo dead, and buried in ſin, that no Sermon ſhall ſtir nor awaken thee? but the laſt Trumpet ſhall ſound before thou wilt hear? O wo to thee when thy days are ended. Then the great Judg<g ref="char:EOLhyphen"/>ment, and Viſitation will fall moſt dreadfully upon thee.</p>
+            <p>And yet I declare unto you this truth in the name of God, that there is not the worſt, the vileſt in the Congregation, that is come through the Providence of God, before God this day; but for ought we know it is poſſible, for thy ſins to be pardoned, for God to be re<g ref="char:EOLhyphen"/>conciled unto thee, and thy ſoul to be ſaved; though even now, an enemy, a rebel againſt God, a ſlave of ſin, and Satan.</p>
+            <pb n="29" facs="tcp:29541:19"/>
+            <p>O therefore prize this Doctrine of Reconciliation, prefer it above your appointed food, as <hi>Job</hi> did the holy Scripture; yea, before thou<g ref="char:EOLhyphen"/>ſands of gold and ſilver. <hi>Job</hi> 23.12.</p>
+            <p>For upon your forſaking a Courſe of ſin, God will not onely par<g ref="char:EOLhyphen"/>don you, let all Suits fall, cancel all Bonds, quit all ſcores, but alſo receive you into favour.</p>
+            <p>Now herein the Lord infinitely excelleth all the Princes of the Earth. If a Subject offend his Prince, and his offence be hainous, and capital; be accounteth it a ſingular and great favour from his Prince, if he can be pardoned, but he ſhall never be honoured more, never be truſted more; But now the Lord doth not onely pardon great ſin<g ref="char:EOLhyphen"/>ners, upon true repentance, but he highly honours them, and Crowns them with very glorious Rewards, and the choiceſt Joys, and Delights that heart can wiſh.</p>
+            <p>And this may be ſaid with all grateful commemoration, and great truth, that when by Divine Providence, Almighty God the Father of all Mercies, returned our moſt dread Sovereign unto us the Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> to the execution of his Kingly Office; he did not onely pardon many Offenders, but hath alſo honoured them with ti<g ref="char:EOLhyphen"/>tles of quality, and places of truſt.</p>
+            <p>I will Anſwer but one Objection, and ſo I will draw to a Concluſion.</p>
+            <p>What infinite Pity is it to conſider, how ſome forſake all Religion, becauſe the Preachers do not Agree; or becauſe the Lives of Profeſ<g ref="char:EOLhyphen"/>ſors give ſome offence?</p>
+            <p>But certainly there is no Cauſe why they ſhould miſlike the Word for the Preacher, or why they ſhould deſpiſe Religion for the Pro<g ref="char:EOLhyphen"/>feſſor.</p>
+            <p>Becauſe the Word and Religion, are not theirs which Preach it, and Profeſs it, but Gods.</p>
+            <p>The Seed ſown in good Ground, may grow, although the Sower had a dirty Hand; Gold Crowns and Scepters are excellent things, although they may be (ſometimes) in the hands of thieves.</p>
+            <p>There is nothing more frequent, then for the Laity to Patronize their ſins upon the example of others, and to fortifie their pro<g ref="char:EOLhyphen"/>phaneneſs from the infirmities of their Teachers. Wicked men love that in the Saints, which the Saints never loved themſelves: And is this wiſdom for a man to make their Foyl his Jewel? their Shame his Glory?</p>
+            <p>A Miniſters life is bad, therefore his Doctrine is falſe. O this is an harſh <hi>Non ſequitur.</hi>
+            </p>
+            <pb n="30" facs="tcp:29541:20"/>
+            <p>Perſonal offences ſuſpend not the Power of the Holy Ghoſt; but the bleſſing of Heaven goes along with the Office, and Function. I ſpeak not this for any one to take liberty to ſin, but for the ſatisfaction of ſome, and for the verifying of the truth.</p>
+            <p>The Ordinances of God, become effectual means of Salvation, not by any virtue meerly in themſelves, or in him that doth Adminiſter them, but onely by the bleſſing of Chriſt, and the working of his Spirit.</p>
+            <p>Now the Lord is not neceſſarily tyed to afford his Preſence, and to ma<g ref="char:EOLhyphen"/>nifeſt his Power always in them; for God is a free Agent, and <hi>inſtru<g ref="char:EOLhyphen"/>menta in divinis operantur acſi non operantur.</hi> And if God withdraw himſelf, there is no more Power nor Majeſty in them, but a bare em<g ref="char:EOLhyphen"/>pty outſide, and no more.</p>
+            <p>Preaching is the Power of God unto Salvation, if the Lord diſcover himſelf, without which it is no more Powerful then the breath of a man, yet God hath tyed us to the word, and Ordinances; Becauſe it is the food of the ſoul, therefore as if you take away food from the body, it will pine; ſo without Preaching, the People will famiſh, for where no viſion is the people periſh.</p>
+            <p>And O what a miſerable thing it is, when a Land is darkened, and and the glory is departed? O the dreadful effects that will follow the Contempt of Gods Ordinances, and his Miniſters. When the Prophets went from <hi>Jeruſalem,</hi> then Sword, and Famine, and Peſtilence, and all the Plagues of God rained upon them, even as Fire came down up<g ref="char:EOLhyphen"/>on <hi>Sodom</hi> ſo ſoon as <hi>Lot</hi> was gone out: And yet our Tribe is a hated Tribe. Of all Offices, the Office of a Reprover is moſt unwelcome, for that men love their ſin, and their luſts as their lives.</p>
+            <p>Gods faithful Miniſters, as they are ſet up by God in a ſpecial manner to oppoſe, and beat down the Kingdom of ſin, and Satan; ſo uſually they are ſingled out by the Devil and his Inſtruments, as the principal Butts againſt which the invenomed Arrows of Malicious hearts are moſt directed. And therefore not onely Serpentine Wiſdom, and Dove-like Innocency is neceſſary for them, above others: alſo Cou<g ref="char:EOLhyphen"/>rage and Magnanimity, not to fear the faces of Men: Sanctity and Holineſs: but alſo Diligence and indefatigableneſs in that great Work which God imployes them about. St. <hi>Paul</hi> who was the moſt famous Preacher, and inſtrument of Gods glory, next to Chriſt, that ever was in the world, yet <hi>counted an Enemy unto the Galatians,</hi> for that <hi>he told them the Truth.</hi> Gal. 4.16. and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Babler with the Philoſophers of <hi>Athens;</hi> The deadlieſt that <hi>Demoſthenes</hi> beſtowed
+<pb n="31" facs="tcp:29541:20"/> upon <hi>Aeſehines,</hi> and the beſt the <hi>Athenians</hi> could afford St. <hi>Paul.</hi>
+            </p>
+            <p>
+               <hi>Micaiah</hi> was hated, becauſe he dealt truely with <hi>Ahab.</hi> The braveſt Deacon that ever the world bred, was half a Martyr in the Pulpit. <hi>Acts</hi> 7.54.</p>
+            <p>But although every baſe fellow ſtop his ear and harden his heart, againſt the God of Heaven, and will not obey our Meſſage, which we have from God: yet in a faithful diſcharge of our duty, we ſhall be glorious in the eyes of God; and if we cannot get them to the Banquet, yet we ſhall be welcome without them. <hi>We are unto God</hi> (ſaith the Apoſtle) <hi>a ſweet ſavour of Chriſt in them that are ſaved, and in them that periſh.</hi> 2 Cor. 2.15. The faithful Miniſters labour whether it hit or miſs, is accepted of God; for as he who perſwadeth to evil, be it Hereſie, or Treaſon, is puniſhed, although he do not prevail, becauſe he intended it, for that he did labour it.</p>
+            <p>So he that doth his beſt to win men to heaven, though he effect<g ref="char:EOLhyphen"/>eth not what he deſired, though he hath laboured in vain, and ſpent his ſtrength in vain (amongſt men) yet he ſhall be accepted, and his reward ſhall be with God.</p>
+            <p>Thus though our Calling is deſpiſed of men, yet it is honourable with God:</p>
+            <p>Even as the Ambaſſadour of a King glorieth in this, that he cometh not as a private perſon, but as the Kings Ambaſſadour; and becauſe of this Dignity, that he is the Kings Ambaſſadour, he is honoured, and ſet in the higheſt place, which honour ſhould not be given him, if he came as a private perſon.</p>
+            <p>So a Miniſter of the Goſpel, like the Kidgs Ambaſſadour, muſt magnifie his Office and Calling, for that he glorieth not in himſelf; but in the King which hath ſent him; whoſe Authority he deſireth to be honoured, and magnified.</p>
+            <p>Now let us all ſtand and admire at the infinite grace and favour of God, the Father of all Mercies, in beſtowing upon us, the People of <hi>England,</hi> ſuch great, and manifold Bleſſings; as our Ancient Go<g ref="char:EOLhyphen"/>vernment, publick Peace, much Plenty, <hi>Proſperity within our Palaces.</hi> Pſal. 122.7. But amonſt all our joys, none ſhould more fill our hearts, and cauſe them to run over with thankfulneſs, then the bleſ<g ref="char:EOLhyphen"/>ſed continuance of the Preaching of Gods ſacred Word amongſt us.</p>
+            <p>The Dew lies not onely upon <hi>Gideons</hi> Fleece, upon ſome particu<g ref="char:EOLhyphen"/>lar perſons, but it is diſperſed generally, all the Kingdom over: Every man may take S. <hi>Auſtins</hi> counſel, <hi>Tolle lege, Tolle lege;</hi> every man amongſt us may be a Rabbi, Learned in the Laws, Converſant
+<pb n="32" facs="tcp:29541:21"/> in the holy Scriptures, and ſpeaking the Language of <hi>Canaan;</hi> ſeeing that through the infinite goodneſs of God, out Princes are Chriſtians, there is not that Perſecution, Religion is not diſturbed, we are not compelled to manifeſt the proof of our Faith by harder trials, <hi>to re<g ref="char:EOLhyphen"/>ſiſt even unto blood ſtriving againſt ſin.</hi> Heb. 12.4. Sealing to the truth with our blood, as that holy Martyr <hi>Ignatius,</hi> and many others did. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And when he came to the wild Beaſts to be devoured of them, and his bones cruſhed between their Teeth, ſaith he <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Now I begin to be a Chriſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian. Ignat.</hi> Epiſt. ad <hi>Rom.</hi>
+            </p>
+            <p>In the Hiſtory of the <hi>Waldenſes,</hi> they petitioning, That ſeeing it was permitted to the <hi>Saracens,</hi> and <hi>Turks,</hi> and <hi>Jews,</hi> who are mortal E<g ref="char:EOLhyphen"/>nemies to Chriſt, and the baſeſt People in the World, to dwell peaceably in the faireſt Cities of Chriſtendom; that Pity, and Compaſſion might be ſhewed unto them, who have their whole Religion founded upon the Goſpel, and worſhipping the Lord Jeſus; and that they might be ſuffered to live quietly in deſolate Mountains, and Deſerts, and Val<g ref="char:EOLhyphen"/>leys, profeſſing that they would live in all fear, and reverence of God, with all due ſubjection to their Lord and Prince, and to his Lieute<g ref="char:EOLhyphen"/>nants, and Officers; and yet this Petition could not be granted.</p>
+            <p>The Church of God was ſo obſcured, as it was not to be ſought for in any external pomp in Publick places; but in Priſons, and Dens; <hi>Non in tactis, &amp; exteriori Pompa, ſed potius in Speluncis, &amp; Carce<g ref="char:EOLhyphen"/>ribus.</hi>
+            </p>
+            <p>Why then are a generation ſo angry and diſpleaſed? like <hi>Jonah,</hi> that did even Chide with God. By now much the leſs we are in our Paſſive obedience, by ſo much the more let us be in our Active. Let that ſtrength be laid out for Gods glory, which might have been ſpent in ſuffering the Wrath of God, or the rage and ſury of wicked men.</p>
+            <p>And let us all be earneſt with God for his Church, That <hi>the Gates of Hell may not prevail againſt it;</hi> That the Lord would make his People ten thouſand times more then they are; and increaſe their Graces, as well as add to their number. That all the Nations of the World may ſee the Salvation of God, that the Lord Jeſus may abundantly ſee of the Travel of his Soul, and be ſatis<g ref="char:EOLhyphen"/>fied.</p>
+            <p>That the Word of God may be as glorious, and as much prized by us the people of <hi>England,</hi> as ever it was by any Nation ſince the world ſtood</p>
+            <pb n="33" facs="tcp:29541:21"/>
+            <p>That the Ordinances of God may be in ſo much Power, and Purity, Beauty, Splendor and Glory, that Godlineſs, and the powerful Profeſſion of it, may be more Honourable, then ever it hath been Contemptible.</p>
+            <p>That through the Power of the Goſpel, and our careful Go<g ref="char:EOLhyphen"/>vernment, the Mouth of Wickedneſs and Prophaneneſs may be ſtop<g ref="char:EOLhyphen"/>ped, and ſubdued, and whatſoever is contrary unto ſound Do<g ref="char:EOLhyphen"/>ctrine, and unto holy Practice.</p>
+            <p>That the Lord would be pleaſed to bleſs our moſt dread Sovereign Lord the King, with many and happy Dayes; Enrich his Royal heart with many ſingular and extraordinary Graces, make him as an Angel of God; a man after his own heart, and an Excellent Spirit of Government, that he may ſtill know how to go in and out before ſo great a People; and may be the Wonder of the World in this Latter Age, for Happineſs, and true felicity, to the honour of the great God, and the good of his Church.</p>
+            <p>That our Nobility may be Loyal, and Faithful; men of ho<g ref="char:EOLhyphen"/>lineſs and Religion, ſparkling with ten thouſand Glories, Vertues, and Graces; while they oblige their Servants, Tenants, and the Countrey round about them, by their holy Example to the practice of Piety, and the fear of God.</p>
+            <p>That our <hi>Judges</hi> may be <hi>as at the firſt, and our Counſellours as at the beginning.</hi> Iſa. 1.26. like <hi>Moſes, Joſhua,</hi> &amp;c. Impartially Execute Gods Judgments upon the Enemies of the Church, and faithfully adminiſter Juſtice among the People; no unrighteouſneſs in Judgment: but <hi>run down as Waters, and Righteouſneſs as a mighty Stream.</hi> Amos 5.24. That there may be no complaining in our ſtreets.</p>
+            <p>That our inferiour Magiſtrates may be <hi>Able men, ſuch as fear God; Men of Truth hating Covetouſneſs.</hi> Exod. 18.21.</p>
+            <p>Our Gentry Sober, Vigilant, Temperate in all things; That they may Run in that heavenly Race ſet before them in the Holy Scriptures, and ſo <hi>obtain an Incorruptible Crown.</hi> 1 Cor. 9.24,25.</p>
+            <p>Our Miniſters all as ſo many burning Lights, Paſtors after Gods own heart.</p>
+            <p>Our Right Reverend Biſhops, and Governours of the Church, imitating Chriſt, the Biſhop of their Souls.</p>
+            <p>All the People receiving Gods Truth, in the Love thereof, and in the power thereof, men of Integrity, Innocency, and Sincerity:</p>
+            <pb n="34" facs="tcp:29541:22"/>
+            <p>The gloſs of Profeſſion without Sincerity, will off in a Storm; when a man hath not the Root, and principle of grace in him. <hi>Mat</hi> 13.21.</p>
+            <p>But where this is, it obligeth a man cloſe to his Duty, both to God and Man. If I am Regenerate, and truely ſanctified; I do good Works how, and whenſoever occaſion is offered: As,</p>
+            <p>If I be a Miniſter of the Word; I obey the inward Calling of the Spirit, I accept the outward Calling of the Church; I Preach Ab<g ref="char:EOLhyphen"/>ſolution of ſins to every Penitent Soul; I offer the Seals of Reconci<g ref="char:EOLhyphen"/>liation to every Contrite ſpirit; I Comfort the Broken-hearted.</p>
+            <p>If I be a Houſholder; I govern my Family, I bring up my Chil<g ref="char:EOLhyphen"/>dren in the knowledge and fear of God.</p>
+            <p>If I be a Magiſtrate; the Charge that is given me from above, I diligently execute.</p>
+            <p>If I be a Servant; I do my Maſters buſineſs faithfully.</p>
+            <p>If I be a Subject; I live in obedience unto my Prince: For the ſame Commandement that binds and obliges unto the Fear of God, bindeth alſo to Honour the King. 1 <hi>Pet.</hi> 2.17. to give honour and obedience in a ſpecial manner unto the higheſt Magiſtrate, ſo that he which hath not performed the latter of theſe Duties, is not to be thought to have performed the other ſincerely.</p>
+            <p>Duty binds us to give obedience to Evil Princes, in Conſcience of Gods Ordinance: And as an Evil Subject ſerves God for his Princes ſake, ſo a good Subject ſerves his Prince for Gods ſake.</p>
+            <p>Thus Obedience is given, if not <hi>Principi,</hi> yet <hi>Principatui;</hi> if not to the Perſon, yet to the Office.</p>
+            <p>Therefore in the fear of God, let us give all due obedience unto Au<g ref="char:EOLhyphen"/>thority; be men of meek and quiet ſpirits, in imitation of Chriſt, and according to his Command. <hi>Mat.</hi> 11.29. who hath alſo intailed ſuch a bleſſing upon ſuch perſons as imports all good things. <hi>Mat.</hi> 5.5.</p>
+            <p>Is it not infinitely better to be a peace Maker, then a peace Break<g ref="char:EOLhyphen"/>er? They that live in obedience unto Government, have the Bleſſing, Benefit, and Protection of Government.</p>
+            <p>Whereas it is the property of wicked men to be unquiet, reſtleſs, ſuch as are without true Peace in themſelves, and ſeek to diſturb or moleſt others; as the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the firſt <hi>Pſalm</hi> ſignifies. And therefore the Laws of the Kingdom do oftentimes moſt deſerved<g ref="char:EOLhyphen"/>ly take hold of them. O how may ſuch perſons, be aſhamed to live; and afraid to dye? when the whole Creation may grone, and travaile in pain by reaſon of their ſins?</p>
+            <pb n="35" facs="tcp:29541:22"/>
+            <p>Set your hearts now unto theſe things, <hi>for what is our Hope, or Joy, or Crown of Rejoycing? are not even ye in the preſence of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, at his Coming? Ye are our Glory and Joy.</hi> 1 Theſ. 2.19,20. Weep in ſecret for all Abominations you ſee committed. Let our Reverend Viſitors now ſet their faces againſt all iniquity, that no ſin may be Countenanced, to Eclipſe the glory of this Solemnity; ſo that with the glorious Company of the Apoſtles: The goodly Fellow<g ref="char:EOLhyphen"/>ſhip of the Prophets: The noble Army of Martyrs: And the Holy Church throughout all the world: We may arrive to that <hi>Ge<g ref="char:EOLhyphen"/>neral,</hi> Honourable, <hi>and Glorious Aſſembly,</hi> Heb. 12.23. to Celebrate the Praiſes of God; and give him due thanks world without end, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
